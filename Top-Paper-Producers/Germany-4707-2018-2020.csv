@@ -1,0 +1,124 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,40,Austria,AUT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,228505261,,,,228505261,,37742155,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,56,Belgium,BEL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,242837946,,,,242837946,,42970485,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,21980,,,,21980,,1308,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,124,Canada,CAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,479120,,,,479120,,144498,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,156,China,CHN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,629849,,,,629849,,183490,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,5065567,,,,5065567,,951742,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,96070,,,,96070,,22266,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,324822550,,,,324822550,,43133186,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,349056479,,,,349056479,,50201145,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,214,Dominican Rep.,DOM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,21139,,,,21139,,6597,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,233,Estonia,EST,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,75330,,,,75330,,29549,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,246,Finland,FIN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,41113098,,,,41113098,,11106302,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,473116863,,,,473116863,,82460474,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,300,Greece,GRC,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,37357,,,,37357,,4768,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,348,Hungary,HUN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,4787378,,,,4787378,,1377118,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,372,Ireland,IRL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,4661566,,,,4661566,,502953,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,381,Italy,ITA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,224577540,,,,224577540,,37139210,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,392,Japan,JPN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,69565,,,,69565,,13868,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,410,Rep. of Korea,KOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,334795,,,,334795,,175560,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,428,Latvia,LVA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,90946,,,,90946,,32190,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,23259700,,,,23259700,,4879122,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,17159248,,,,17159248,,1797134,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,74480,,,,74480,,40096,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1258458476,,,,1258458476,,266501662,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,579,Norway,NOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,13872909,,,,13872909,,1620300,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,616,Poland,POL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,689157586,,,,689157586,,106530018,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,620,Portugal,PRT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1198895,,,,1198895,,664445,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,642,Romania,ROU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,8812032,,,,8812032,,1273840,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,26852330,,,,26852330,,5791670,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,80680,,,,80680,,43325,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,702,Singapore,SGP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,201090,,,,201090,,119773,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2506047,,,,2506047,,405858,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,9015002,,,,9015002,,1616806,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,724,Spain,ESP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2872411,,,,2872411,,666402,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,752,Sweden,SWE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,63320520,,,,63320520,,12613747,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,307885662,,,,307885662,,46256607,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,792,Turkey,TUR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,15671,,,,15671,,3177,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2256546,,,,2256546,,712503,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,223527386,,,,223527386,,44735043,,,0
+H5,2018,2018,2018,4,0,1,Import,276,Germany,DEU,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,57245446,,,,57245446,,15593387,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,36,Australia,AUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,21348,,,,21348,,2876,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,40,Austria,AUT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,202965322,,,,202965322,,30341181,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,56,Belgium,BEL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,250071425,,,,250071425,,39347759,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,171340,,,,171340,,56116,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,112,Belarus,BLR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,247180,,,,247180,,81547,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,124,Canada,CAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,535397,,,,535397,,139638,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,156,China,CHN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,810194,,,,810194,,217176,,,6
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,10500,,,,10500,,117,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3487786,,,,3487786,,451646,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,335993252,,,,335993252,,36530889,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,329354468,,,,329354468,,39696734,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,233,Estonia,EST,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1604510,,,,1604510,,372302,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,246,Finland,FIN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,43530769,,,,43530769,,10372057,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,488709991,,,,488709991,,74130265,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,300,Greece,GRC,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,886,,,,886,,218,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,728,,,,728,,805,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,348,Hungary,HUN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3731452,,,,3731452,,956106,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,372,Ireland,IRL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3083808,,,,3083808,,303459,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,376,Israel,ISR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,48530,,,,48530,,7314,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,381,Italy,ITA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,225028762,,,,225028762,,30845869,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,392,Japan,JPN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,46359,,,,46359,,8484,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,428,Latvia,LVA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1042040,,,,1042040,,190343,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,22464640,,,,22464640,,4490972,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,23036730,,,,23036730,,2094221,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1274158590,,,,1274158590,,240197677,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,579,Norway,NOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,9609453,,,,9609453,,948725,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,616,Poland,POL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,728893084,,,,728893084,,91681854,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,620,Portugal,PRT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,870695,,,,870695,,530454,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,642,Romania,ROU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3875948,,,,3875948,,992211,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,10025033,,,,10025033,,2499913,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,207736,,,,207736,,83136,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1448087,,,,1448087,,163474,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,11880885,,,,11880885,,1972796,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,724,Spain,ESP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3026114,,,,3026114,,910078,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,752,Sweden,SWE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,66076261,,,,66076261,,12437468,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,291979011,,,,291979011,,38041297,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,792,Turkey,TUR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,6836,,,,6836,,2245,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2053741,,,,2053741,,616141,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,225820440,,,,225820440,,32023978,,,0
+H5,2019,2019,2019,4,0,1,Import,276,Germany,DEU,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,72409542,,,,72409542,,14028857,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,8,Albania,ALB,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,14846,,,,14846,,2544,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,36,Australia,AUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,40968,,,,40968,,6281,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,40,Austria,AUT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,161031174,,,,161031174,,20150802,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,56,Belgium,BEL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,223247956,,,,223247956,,30970844,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,462080,,,,462080,,151368,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,76,Brazil,BRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,19593,,,,19593,,3358,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,16353,,,,16353,,1542,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,112,Belarus,BLR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,265060,,,,265060,,84934,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,124,Canada,CAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1053475,,,,1053475,,174742,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,156,China,CHN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1121464,,,,1121464,,277356,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,17500,,,,17500,,199,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,6835110,,,,6835110,,928794,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,294546921,,,,294546921,,25652567,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,311034408,,,,311034408,,28749039,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,233,Estonia,EST,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2525357,,,,2525357,,464338,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,246,Finland,FIN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,50279488,,,,50279488,,9402449,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,481005533,,,,481005533,,59715287,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,300,Greece,GRC,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,460023,,,,460023,,68887,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,348,Hungary,HUN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,4322131,,,,4322131,,765155,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,372,Ireland,IRL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,598716,,,,598716,,125228,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,376,Israel,ISR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,5321250,,,,5321250,,747812,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,381,Italy,ITA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,176696151,,,,176696151,,19557025,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,392,Japan,JPN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,10335,,,,10335,,1927,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,428,Latvia,LVA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1728391,,,,1728391,,517708,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,18449700,,,,18449700,,3575352,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,9795241,,,,9795241,,828903,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1264467587,,,,1264467587,,223516285,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,579,Norway,NOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,5632350,,,,5632350,,411317,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,616,Poland,POL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,667334551,,,,667334551,,70748407,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,620,Portugal,PRT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,4132535,,,,4132535,,1049221,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,642,Romania,ROU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3762872,,,,3762872,,527714,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,14902718,,,,14902718,,3506800,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,321620,,,,321620,,98069,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,916725,,,,916725,,110907,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,16702471,,,,16702471,,2402947,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,724,Spain,ESP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,4562045,,,,4562045,,1366688,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,752,Sweden,SWE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,64850329,,,,64850329,,11059986,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,295076975,,,,295076975,,34049516,,,6
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,792,Turkey,TUR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,114130,,,,114130,,12637,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,4952120,,,,4952120,,1581010,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,807,North Macedonia,MKD,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,12525,,,,12525,,2289,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,203186433,,,,203186433,,26676465,,,0
+H5,2020,2020,2020,4,0,1,Import,276,Germany,DEU,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,67204418,,,,67204418,,14015137,,,0

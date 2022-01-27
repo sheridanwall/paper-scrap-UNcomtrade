@@ -1,0 +1,171 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,36,Australia,AUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,18644154,,,,18644154,,3930508,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,44,Bahamas,BHS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,249375,,,,249375,,69725,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,52,Barbados,BRB,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,172330,,,,172330,,30104,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,56,Belgium,BEL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,10509082,,,,10509082,,1897746,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,76,Brazil,BRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,141511,,,,141511,,50944,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,96,Brunei Darussalam,BRN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,91160,,,,91160,,34203,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,100,Bulgaria,BGR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,151820,,,,151820,,28846,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,124,Canada,CAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,76732693,,,,76732693,,14886185,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,152,Chile,CHL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1322366,,,,1322366,,441468,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,156,China,CHN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,17511397,,,,17511397,,3669804,,,6
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,408608,,,,408608,,107705,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,214,Dominican Rep.,DOM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,484796,,,,484796,,159866,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,557754,,,,557754,,112443,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,222,El Salvador,SLV,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3261647,,,,3261647,,854934,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,233,Estonia,EST,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,313945,,,,313945,,61309,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,246,Finland,FIN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,28,,,,,,5,,,6
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,251,France,FRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,6826790,,,,6826790,,1295060,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,266,Gabon,GAB,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,21845,,,,21845,,10922,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,276,Germany,DEU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2406680,,,,2406680,,583342,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,300,Greece,GRC,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3306035,,,,3306035,,610683,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,320,Guatemala,GTM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,809884,,,,809884,,166419,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,340,Honduras,HND,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1171044,,,,1171044,,301584,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,344,"China, Hong Kong SAR",HKG,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,13760966,,,,13760966,,3856153,,,6
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,360,Indonesia,IDN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2525386,,,,2525386,,434508,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,372,Ireland,IRL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,48960,,,,48960,,9547,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,376,Israel,ISR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2745480,,,,2745480,,597089,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,381,Italy,ITA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,14826880,,,,14826880,,2828473,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,388,Jamaica,JAM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1337778,,,,1337778,,330887,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,392,Japan,JPN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,287259540,,,,287259540,,52571461,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,400,Jordan,JOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,398520,,,,398520,,97648,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,428,Latvia,LVA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,618695,,,,618695,,117884,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,458,Malaysia,MYS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1043812,,,,1043812,,351592,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,470,Malta,MLT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,115614,,,,115614,,36288,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,484,Mexico,MEX,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2691828,,,,2691828,,1099921,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,14962993,,,,14962993,,4295145,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,516,Namibia,NAM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,384760,,,,384760,,73104,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,528,Netherlands,NLD,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,67746181,,,,67746181,,12854872,,,6
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,554,New Zealand,NZL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3835119,,,,3835119,,1312917,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,558,Nicaragua,NIC,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,60460,,,,60460,,10641,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,579,Norway,NOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,9519010,,,,9519010,,1642499,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,580,N. Mariana Isds,MNP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,131180,,,,131180,,7871,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,591,Panama,PAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,17040,,,,17040,,8264,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,598,Papua New Guinea,PNG,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,296420,,,,296420,,75500,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,608,Philippines,PHL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,9310875,,,,9310875,,2331318,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,620,Portugal,PRT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1597380,,,,1597380,,315669,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,634,Qatar,QAT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,247960,,,,247960,,57527,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,643,Russian Federation,RUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,300320,,,,300320,,109616,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,662,Saint Lucia,LCA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,543360,,,,543360,,137581,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,41510,,,,41510,,10793,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1167220,,,,1167220,,291842,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,20599117,,,,20599117,,6103105,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,704,Viet Nam,VNM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,101656,,,,101656,,4549,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,710,South Africa,ZAF,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1011600,,,,1011600,,332619,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,13509660,,,,13509660,,2656721,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,410940,,,,410940,,90020,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,19891013,,,,19891013,,7437347,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,780,Trinidad and Tobago,TTO,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,854742,,,,854742,,220099,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,784,United Arab Emirates,ARE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2307855,,,,2307855,,555623,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,826,United Kingdom,GBR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,551550,,,,551550,,102213,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,912024432,,,,912024432,,195882810,,,0
+H5,2018,2018,2018,4,0,1,Import,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,340575,,,,340575,,74258,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,36,Australia,AUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,13737363,,,,13737363,,1955805,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,52,Barbados,BRB,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,47690,,,,47690,,6820,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,56,Belgium,BEL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,351220,,,,351220,,63443,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,76,Brazil,BRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,96060,,,,96060,,34582,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,96,Brunei Darussalam,BRN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,241481,,,,241481,,77882,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,124,Canada,CAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,56437829,,,,56437829,,9111115,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,144,Sri Lanka,LKA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,91130,,,,91130,,31864,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,152,Chile,CHL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,106833,,,,106833,,40062,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,156,China,CHN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2808814,,,,2808814,,2076246,,,6
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,709038,,,,709038,,180359,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1723160,,,,1723160,,174048,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,50,,,,50,,129,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,206184,,,,206184,,40310,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,222,El Salvador,SLV,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2481768,,,,2481768,,511803,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,242,Fiji,FJI,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,25030,,,,25030,,3065,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,251,France,FRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3251270,,,,3251270,,439969,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,276,Germany,DEU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1752909,,,,1752909,,494610,,,6
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,300,Greece,GRC,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,8437370,,,,8437370,,1265719,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,320,Guatemala,GTM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1527588,,,,1527588,,292059,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,340,Honduras,HND,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1487379,,,,1487379,,343241,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,344,"China, Hong Kong SAR",HKG,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,12590880,,,,12590880,,3109515,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,360,Indonesia,IDN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3908224,,,,3908224,,674821,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,372,Ireland,IRL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,503800,,,,503800,,35266,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,376,Israel,ISR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1433540,,,,1433540,,320572,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,381,Italy,ITA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,6619520,,,,6619520,,1205720,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,388,Jamaica,JAM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1934103,,,,1934103,,385654,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,392,Japan,JPN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,234100447,,,,234100447,,37049637,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,458,Malaysia,MYS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,976505,,,,976505,,354078,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,470,Malta,MLT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,327310,,,,327310,,71326,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,484,Mexico,MEX,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,4388524,,,,4388524,,1231530,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,17566833,,,,17566833,,3535316,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,504,Morocco,MAR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,713927,,,,713927,,233563,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,528,Netherlands,NLD,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,48554070,,,,48554070,,7999694,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,540,New Caledonia,NCL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,249150,,,,249150,,37384,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,554,New Zealand,NZL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,6889509,,,,6889509,,1984731,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,579,Norway,NOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,5165932,,,,5165932,,714301,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,580,N. Mariana Isds,MNP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,114640,,,,114640,,6609,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,591,Panama,PAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,362686,,,,362686,,71403,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,598,Papua New Guinea,PNG,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,191740,,,,191740,,46414,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,608,Philippines,PHL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,4129230,,,,4129230,,1020434,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,620,Portugal,PRT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,195720,,,,195720,,23486,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,643,Russian Federation,RUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,72526,,,,72526,,16400,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,662,Saint Lucia,LCA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,96509,,,,96509,,26347,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,86700,,,,86700,,19035,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,682,Saudi Arabia,SAU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,745920,,,,745920,,183032,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,699,India,IND,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,98300,,,,98300,,27032,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,21873180,,,,21873180,,5656112,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,704,Viet Nam,VNM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,991013,,,,991013,,43942,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,710,South Africa,ZAF,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,683420,,,,683420,,182004,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2544860,,,,2544860,,496245,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,17432498,,,,17432498,,6032163,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,780,Trinidad and Tobago,TTO,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,838650,,,,838650,,189036,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,784,United Arab Emirates,ARE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1281610,,,,1281610,,334459,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,792,Turkey,TUR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,45,,,,45,,71,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,826,United Kingdom,GBR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,8079040,,,,8079040,,609452,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,959870948,,,,959870948,,166426889,,,0
+H5,2019,2019,2019,4,0,1,Import,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,53110,,,,53110,,4367,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,32,Argentina,ARG,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,81827,,,,81827,,6546,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,36,Australia,AUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,5488350,,,,5488350,,752006,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,52,Barbados,BRB,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,167592,,,,167592,,27586,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,56,Belgium,BEL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1004100,,,,1004100,,173159,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,96,Brunei Darussalam,BRN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,166100,,,,166100,,41085,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,124,Canada,CAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,34539809,,,,34539809,,5450553,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,144,Sri Lanka,LKA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,91120,,,,91120,,25058,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,156,China,CHN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1860295,,,,1860295,,1558367,,,6
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,188,Costa Rica,CRI,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,265242,,,,265242,,50927,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,196,Cyprus,CYP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,495180,,,,495180,,48216,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,208,Denmark,DNK,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,245640,,,,245640,,22108,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,214,Dominican Rep.,DOM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,561132,,,,561132,,124268,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,218,Ecuador,ECU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,59468,,,,59468,,10149,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,222,El Salvador,SLV,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1522210,,,,1522210,,311214,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,251,France,FRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2210216,,,,2210216,,276486,,,6
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,276,Germany,DEU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,149035,,,,149035,,42961,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,300,Greece,GRC,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,7172240,,,,7172240,,818445,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,320,Guatemala,GTM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,393458,,,,393458,,74046,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,340,Honduras,HND,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,272346,,,,272346,,58097,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,344,"China, Hong Kong SAR",HKG,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,13489096,,,,13489096,,2696587,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,360,Indonesia,IDN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1734014,,,,1734014,,260726,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,376,Israel,ISR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,421900,,,,421900,,66901,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,381,Italy,ITA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3157710,,,,3157710,,364983,,,6
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,388,Jamaica,JAM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2047165,,,,2047165,,326667,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,392,Japan,JPN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,224385224,,,,224385224,,32607636,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,428,Latvia,LVA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,99420,,,,99420,,10638,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,458,Malaysia,MYS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2292486,,,,2292486,,598035,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,484,Mexico,MEX,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,4043997,,,,4043997,,865643,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,9689589,,,,9689589,,2080052,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,504,Morocco,MAR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1630704,,,,1630704,,398275,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,528,Netherlands,NLD,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,25346320,,,,25346320,,3039744,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,554,New Zealand,NZL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1686868,,,,1686868,,418686,,,6
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,579,Norway,NOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,12900200,,,,12900200,,1696656,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,580,N. Mariana Isds,MNP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,22640,,,,22640,,1132,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,598,Papua New Guinea,PNG,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,86610,,,,86610,,15590,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,608,Philippines,PHL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,6345343,,,,6345343,,1182659,,,6
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,643,Russian Federation,RUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,91628,,,,91628,,15047,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,662,Saint Lucia,LCA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,205680,,,,205680,,42576,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,105960,,,,105960,,20770,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,699,India,IND,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,26,,,,26,,130,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,702,Singapore,SGP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,12178027,,,,12178027,,2791726,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,704,Viet Nam,VNM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,121445,,,,121445,,13115,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,724,Spain,ESP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1928690,,,,1928690,,283906,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,752,Sweden,SWE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3,,,,3,,95,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,757,Switzerland,CHE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,116090,,,,116090,,3483,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,764,Thailand,THA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,21538713,,,,21538713,,5839561,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,780,Trinidad and Tobago,TTO,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,199205,,,,199205,,29281,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,792,Turkey,TUR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,154790,,,,154790,,24767,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,826,United Kingdom,GBR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,662565,,,,662565,,84488,,,6
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,746828737,,,,746828737,,132290747,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,862,Venezuela,VEN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,71860,,,,71860,,18684,,,0
+H5,2020,2020,2020,4,0,1,Import,410,Rep. of Korea,KOR,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,370,,,,370,,30,,,0

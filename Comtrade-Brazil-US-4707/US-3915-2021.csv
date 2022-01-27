@@ -1,0 +1,475 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,950880,,313382,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,30346167,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,5000,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,23400,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,243555,,128141,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2347424,,933669,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,29604,,21863,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,23031,,170416,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,775712,,404909,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,617242,,585751,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,230511,,866000,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,498656,,202130,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,21849,,136930,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6161,,44884,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2899182,,1409333,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,14341,,32775,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,356,,3500,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8184001,,2487020,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,471286,,215628,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,127507,,138647,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9302,,48505,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,79030,,83127,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,116535,,36204,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,440,Lithuania,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,28,,2634,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,60,Bermuda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,380,,7039,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,186115,,55683,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,44900,,3000,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,554,New Zealand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3273,,19068,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9340,,128698,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,40000,,39239,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,504,Morocco,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,30863,,16250,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1636541,,549196,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,68,Bolivia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18264,,5040,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,25500,,10000,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,279217,,170368,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,428,Latvia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,200000,,151980,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4022280,,1218830,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,32273,,16699,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,275408,,74249,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,375889,,270564,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,208,Denmark,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,37013,,30184,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6625,,57167,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17507,,33194,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1569020,,1991474,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,265826,,227213,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,900000,,365182,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,210,,17508,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,111506,,85104,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,231,Ethiopia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,23052,,13909,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,831194,,672691,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17602,,10308,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,6797554,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,23436127,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,40,Austria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,9700,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,312100,,115558,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3874694,,1942150,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,404,Kenya,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,30000,,10000,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,40000,,80120,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,657468,,373417,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,60000,,9000,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,70840,,58630,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,63221,,49341,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1053127,,406999,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4380,,278575,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,208,Denmark,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,33769,,27334,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19341,,11411,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,59273,,33323,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,80000,,49000,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,783311,,223198,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,71562,,34182,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2553,,27941,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,65284,,18673,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,73000,,14000,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,104,Myanmar,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,53268,,7200,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,91666,,185520,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,40314,,18800,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,691493,,223263,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,103707,,94159,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,563402,,187669,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17785,,3128,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,936959,,867130,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,352389,,220701,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2510531,,934520,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,607087,,256783,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1612,,3487,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,16139,,101463,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,288,Ghana,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,169055,,71892,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,370959,,165482,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,426771,,146114,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,24,Angola,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18376,,5455,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,75396,,24570,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,600000,,353618,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,428,Latvia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,134991,,46191,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9824781,,2246659,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,414,Kuwait,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,419,,6592,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2923132,,831150,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,187200,,384960,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,383837,,239611,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9114,,42198,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1574710,,857118,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,22,,2677,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1600205,,328478,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,28600,,25740,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1096165,,331784,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1460,,13532,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4261900,,1874967,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,5000,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,63857,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,27551065,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,246,Finland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,4686,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,40,Austria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,14868,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,20003384,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,710,South Africa,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,4700,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,23120033,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,239039,,107243,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,571056,,261861,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,38515,,76648,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,130496,,84597,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,208,Denmark,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,55819,,44867,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18157,,73388,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19042167,,7570549,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17126,,121422,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,40000,,72800,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,35045,,30310,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3677136,,1987099,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1115151,,291077,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,874079,,1526582,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,231,Ethiopia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,32315,,21048,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,560673,,257697,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,171728,,204250,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,906578,,398871,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20156,,25950,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1495330,,868537,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1658430,,696642,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,56272,,37018,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5410674,,3910566,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,467,,4278,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,14532302,,10026357,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,7690,,27295,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,268233,,94467,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,834,United Rep. of Tanzania,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,34900,,10800,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,60,Bermuda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2166,,5864,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,488,,10451,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3080,,23188,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,115038,,216235,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,418,Lao People's Dem. Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,76818,,20000,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,208,Denmark,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,36961,,29446,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18144,,5200,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,261629,,247367,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,862,Venezuela,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,200,,3410,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6328,,40950,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,71773,,89607,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1087961,,685882,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,14801,,36150,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3426001,,1287219,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,481404,,390740,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,66304,,47537,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,273288,,123414,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2589,,21445,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2390960,,1115182,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8158,,6526,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19367,,11358,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,80040,,86218,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1537052,,2356122,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,553609,,367952,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,349286,,174254,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,55230,,24358,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,428,Latvia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,721094,,410255,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,60000,,123109,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,714317,,337787,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,263452,,337138,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,326906,,179905,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,58482,,17556,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,316890,,414128,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,59207,,65292,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,24,Angola,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18500,,10000,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,113795,,29020,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,372,,8648,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5033560,,1627934,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,418,Lao People's Dem. Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,77391,,20000,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,12964244,,7062770,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,391573,,262582,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,10062064,,2858858,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19021,,72575,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,921394,,1276090,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1656143,,785137,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,638942,,276274,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,175124,,85726,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,498703,,346742,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,90213,,85011,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5582,,82337,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,834,United Rep. of Tanzania,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19000,,6000,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5170,,40260,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,80000,,108000,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,228930,,221479,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,705,Slovenia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,60000,,40000,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,303073,,117792,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20841,,136471,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2753,,11666,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,100000,,145218,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6026674,,2080707,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4148590,,1370185,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,255710,,149260,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,663277,,285726,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1099,,13050,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19909,,150000,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18703,,8170,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,56766,,32181,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,131764,,89032,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,29614,,82106,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,60,Bermuda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,105,,4080,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,208,Denmark,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,37212,,29119,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,24,Angola,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,39280,,10500,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,42255,,24105,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,559182,,264093,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,640000,,647318,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,197782,,88935,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,162144,,209341,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,428,Latvia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,586451,,156892,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,10486,,50415,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,152535,,48876,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2339,,26875,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,40,Austria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,49401,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,3369,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,18533414,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,246,Finland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,32,,2646,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,168805,,50105,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,58205,,20343,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,662,Saint Lucia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8500,,16037,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,283972,,127503,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,834,United Rep. of Tanzania,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,36379,,11200,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,512,Oman,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,54037,,26761,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,11804,,7836,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,80447,,86955,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,72750,,29175,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,40508,,43321,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,16960,,14322,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,184150,,188194,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,33908,,18321,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,554,New Zealand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1814,,4375,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,84871,,141383,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,65545,,48921,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,78215,,49344,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,414,Kuwait,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,789,,7282,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,84,Belize,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,340,,9375,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,40,Austria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,11821,,27117,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2355,,161946,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18347,,41097,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,640725,,269379,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,542216,,284397,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,112619,,134867,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1461,,8523,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,212,Dominica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1975,,8621,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1765538,,828514,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20000,,17500,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1237183,,1119158,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3861,,36291,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,419366,,266819,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6689,,72091,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15626,,133912,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1507729,,1251492,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,428,Latvia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,621020,,489420,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,48,Bahrain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,996,,5585,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,70827,,128794,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,600,Paraguay,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,29028,,4000,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,496347,,258848,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,208,Denmark,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,55011,,44173,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1857970,,850728,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,33200,,112371,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,410712,,343469,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3975787,,1377144,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,928091,,286422,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,246,Finland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18879,,5293,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,11204,,28569,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,763562,,234484,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,104,Myanmar,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,77851,,27810,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,288,Ghana,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,114155,,46917,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,57724,,23656,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,40000,,38000,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,76901,,38806,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,460824,,192252,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,189647,,75456,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,530829,,163830,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9814535,,2436861,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,136217,,31137,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,24,Angola,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17015,,7500,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,609725,,308267,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3650,,16518,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,208,Denmark,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18190,,15012,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,88,,7975,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,302980,,164111,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,100000,,112600,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1769,,8304,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1319182,,398770,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,195169,,103869,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,428,Latvia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,72233,,30563,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2020,,18868,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,42804,,45064,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1999160,,658336,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,21328,,23460,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,70386,,36130,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4107138,,1067316,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,491108,,617324,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,51551,,10723,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,263838,,55781,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19289,,8969,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,129398,,60497,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,44,Bahamas,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1091,,2556,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,284927,,119670,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,38906,,18720,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,600,Paraguay,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,105000,,16315,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,113137,,160140,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,73901,,44130,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,654882,,257409,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,990441,,1262614,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20922,,200953,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,85570,,93092,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,13511220,,8954105,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,81690,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,2764537,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,35588,,26660,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,23482,,100307,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,23923,,23727,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,109980,,87330,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,63506,,28094,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,384583,,307146,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,433757,,315037,,,0
+HS,2021,202107,July 2021,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,362963,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,27874182,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,24,Angola,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,76404,,25000,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,40,Austria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,8735,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,24578594,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,9400,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,46800,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,25381915,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,110700,,113706,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,44,Bahamas,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20900,,27158,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,39256,,9995,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,282754,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,2072153,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,331966,,185510,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,200000,,40000,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,13671637,,9019963,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6089721,,2025719,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,60,Bermuda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1000,,5616,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,7745489,,6788603,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,77129,,35511,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,21027,,78346,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,288,Ghana,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,221457,,175586,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5734,,41422,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1068,,16911,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,784355,,219363,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,14422,,25231,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,104,Myanmar,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,39436,,9365,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,148252,,114188,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,291287,,206036,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2352920,,926878,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,10078,,16698,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,208,Denmark,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18459,,15079,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,543673,,250981,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,49487,,43294,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,542144,,543332,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,56435,,65178,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,133040,,112574,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1114361,,364071,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,428,Latvia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,23981,,10146,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,252,,30808,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3451,,65777,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,612000,,1221121,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,179319,,69379,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,50500,,75700,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,51581,,122614,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,176708,,71524,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,206375,,79577,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9818623,,2530600,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,650810,,358611,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1545116,,490648,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,60,Bermuda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5756,,29009,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,7458,,11241,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,342042,,307408,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,120000,,80729,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3691253,,1046082,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1159274,,393661,,,0
+HS,2021,202101,January 2021,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,14723353,,5929827,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,10224,,5112,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,104,Myanmar,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20022,,5939,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19158,,113263,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,253646,,73316,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5163,,56850,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3720381,,1803645,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,334,Heard Island and McDonald Islands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,30569,,20147,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20000,,26074,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,109217,,174990,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,320510,,204126,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,46182,,64190,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,504,Morocco,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18000,,8000,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,83321,,69701,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,554,New Zealand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,416,,19110,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,83885,,33382,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1353923,,468220,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1945,,10929,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2021526,,1193522,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6500,,5850,,,0
+HS,2021,202102,February 2021,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,14035892,,6457896,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,800,Uganda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,21699,,5741,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,432440,,220486,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,600,Paraguay,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,101,,6750,,,0
+HS,2021,202103,March 2021,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,2986072,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,428,Latvia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,920126,,656279,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,311443,,98235,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,34115,,162181,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,394,,6598,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,709423,,277160,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3065,,27640,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1474551,,1184912,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,512,Oman,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17237,,8538,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,317494,,325477,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,44,Bahamas,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,224,,8343,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1732,,47646,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18861,,9356,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,620000,,231000,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,613864,,260524,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2634932,,994393,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,52160,,13288,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,185399,,56614,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,670,Saint Vincent and the Grenadines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,522,,5418,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,70155,,142194,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,466129,,293970,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19500,,7500,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1508027,,2882689,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,80434,,46251,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4786615,,1811845,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,534055,,333795,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,41206,,53164,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,22329,,245256,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,195136,,102943,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,313,,5379,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,62507,,70207,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,90346,,78432,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2268541,,1081968,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3552,,25120,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,45761,,46918,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,97385,,40360,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,483999,,429925,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,60,Bermuda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1075,,7816,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,834,United Rep. of Tanzania,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19215,,5600,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2800,,39750,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18144,,5200,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,239376,,123471,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,40527,,20313,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,35012,,243750,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,13587,,4724,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,13879347,,6971713,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,14236681,,8389112,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,7773689,,3830398,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1091949,,305152,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8100,,79083,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,579,Norway,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,506,,4464,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,334,Heard Island and McDonald Islands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15050,,9770,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1450,,19450,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,222691,,70015,,,0
+HS,2021,202109,September 2021,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4335329,,2281385,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,635,,97840,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2990914,,1526629,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3742,,6800,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3331193,,1692506,,,0
+HS,2021,202106,June 2021,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,568598,,363861,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3859531,,1070062,,,0
+HS,2021,202105,May 2021,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4986778,,2264711,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,13036,,62010,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,705,Slovenia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19051,,6000,,,0
+HS,2021,202104,April 2021,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,434670,,235353,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,89422,,123538,,,0
+HS,2021,202108,August 2021,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,46915,,168355,,,0

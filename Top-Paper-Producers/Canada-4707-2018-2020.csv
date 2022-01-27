@@ -1,0 +1,70 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,1000,,294,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,74000,,,,74000,,14593,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,172000,,,,,,66383,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,4000,,,,,,3490,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,142000,,,,142000,,23699,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,66000,,,,66000,,6277,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,177000,,,,177000,,83809,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,0,,,,,,169,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,0,,,,,,1,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,,,3,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,10000,,,,10000,,10657,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,,,1026,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,0,,676,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,524,Nepal,NPL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,21000,,,,,,6837,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,591,Panama,PAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,19000,,,,19000,,4771,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,55000,,,,55000,,3819,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,14000,,,,14000,,2900,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,0,,,,,,144,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,19000,,,,19000,,4291,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,,,254,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1291627000,,,,0,,157636848,,,0
+H5,2018,2018,2018,4,0,1,Import,124,Canada,CAN,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,944000,,,,0,,303933,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,5000,,,,,,401,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,1000,,394,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,56,Belgium,BEL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3000,,,,3000,,365,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,116000,,,,116000,,36583,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,203000,,,,,,35247,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,69000,,,,69000,,8128,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,45000,,,,45000,,4113,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,23000,,,,0,,2394,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,0,,,,,,6,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,30000,,,,30000,,9062,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,7000,,,,,,740,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,,,71,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,1000,,1524,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,0,,,,,,333,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,,,72,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,524,Nepal,NPL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,22000,,,,0,,3137,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,0,,,,,,198,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,581,United States Minor Outlying Islands,UMI,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,21000,,,,21000,,2086,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,140000,,,,140000,,9675,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,19000,,,,19000,,20240,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,764,Thailand,THA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,0,,,,,,33,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,19000,,,,19000,,10246,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,170000,,,,,,17476,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1090541000,,,,0,,122534541,,,0
+H5,2019,2019,2019,4,0,1,Import,124,Canada,CAN,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1101000,,,,0,,304350,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,0,,,,,,67,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,82000,,,,82000,,23073,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,1000,,93,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,343000,,,,,,87575,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,5000,,,,5000,,3839,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,21000,,,,0,,3757,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,60000,,,,60000,,9988,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,0,,,,,,0,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,,,646,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,1000,,64,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,43000,,,,0,,6464,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,39000,,,,,,4879,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,504,Morocco,MAR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,23000,,,,23000,,1959,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,524,Nepal,NPL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,9000,,,,0,,1173,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,,,257,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,581,United States Minor Outlying Islands,UMI,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,20000,,,,20000,,5703,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,307000,,,,307000,,22609,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,699,India,IND,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,0,,,,,,37,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,0,,,,,,26,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1000,,,,1000,,109,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,842584000,,,,0,,125854323,,,0
+H5,2020,2020,2020,4,0,1,Import,124,Canada,CAN,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1762000,,,,0,,425448,,,0

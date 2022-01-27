@@ -1,0 +1,167 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,840,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,100,Bulgaria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,270,,1788,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,24,,231,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2341067,,472065,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,357800,,79558,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,90300,,13607,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,365440,,72145,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,102235,,127443,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,25542,,35641,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1382876,,252077,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3111694,,384276,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,104520,,25809,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,243729,,59421,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8,,283,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2116781,,439104,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10574,,16045,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,212100,,47758,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,130540,,23068,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,139820,,28738,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,86708,,112924,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,24168,,33531,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1737239,,323452,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,24244,,33637,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3392671,,372584,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,93950,,22396,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4,,61,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,44439,,16950,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,246,Finland,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7,,112,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,18,,538,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,208,Denmark,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1,,1,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3855380,,714014,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,262466,,69338,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,358600,,79154,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10000,,512,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,338080,,59858,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,104887,,135747,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2179717,,406334,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3768059,,453620,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,165115,,40684,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8005,,9130,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7,,21,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,208,Denmark,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,467790,,89403,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2079269,,433449,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,70620,,18016,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3773,,5546,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,528060,,116799,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,135055,,14330,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,40040,,7199,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,115760,,25663,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,88954,,108010,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,48794,,67023,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2572273,,495880,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3070919,,365353,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,160460,,40221,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,80,,391,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,246,Finland,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,545,,1182,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5,,26,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,208,Denmark,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,537440,,99265,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4538352,,769655,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,237254,,59643,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3135,,3351,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,517700,,106275,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,94820,,16190,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,900,,1007,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,487,,101,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,65,,13,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,143320,,30180,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,123308,,150956,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2012015,,403768,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3304718,,386214,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,558385,,136244,,,0
+HS,2019,201905,May-19,4,0,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9563,,10887,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,100,Bulgaria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,53,,943,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8,,113,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,208,Denmark,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,651480,,119944,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4587082,,787939,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,830403,,214842,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,463530,,96998,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,190360,,35331,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,171560,,35829,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,201505,,158594,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1236316,,255919,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2415332,,325989,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,557820,,140396,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7871,,8390,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,246,Finland,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,133,,26,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,100,Bulgaria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,162,,1268,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,54,,403,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,208,Denmark,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,133800,,17317,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,49,,11,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3146718,,744339,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,427380,,110009,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,621520,,132668,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,241890,,42169,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,220,,247,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,142620,,29301,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,222342,,180734,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,22412,,30731,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1291487,,265871,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3278013,,433948,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,476415,,118974,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,80,,390,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,269,,447,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3162470,,594906,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,213489,,54448,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,183,,877,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,342120,,73082,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,229455,,43824,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,74020,,15086,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,118459,,126464,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,44838,,60976,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1274002,,268401,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2630016,,309874,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,377720,,94512,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,17845,,16909,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,246,Finland,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,401,,110,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,52,,142,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2537105,,537567,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,46920,,11901,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,49560,,9817,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,237700,,49854,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,125339,,17395,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,148940,,30726,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,172224,,118148,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1369911,,273332,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3417568,,396396,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,538150,,133160,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5000,,10651,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,246,Finland,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2,,47,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,28,,117,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,208,Denmark,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1,,6,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3292560,,631230,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,405765,,102670,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2,,17,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,224500,,45316,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,61521,,4698,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,139,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,103860,,21156,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,152028,,170907,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1142682,,220184,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2882924,,293078,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,832505,,205569,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,246,Finland,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3646,,25641,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8,,51,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3207220,,612535,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,457042,,140128,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,387830,,77579,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,74800,,7712,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,141100,,29242,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,58684,,63829,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,44558,,60186,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1297548,,253638,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3821160,,405870,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1184530,,286068,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,16405,,15670,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,246,Finland,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,24420,,4885,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,246,Finland,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,16,,87,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,246,Finland,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4099595,,816124,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,246,Finland,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,309822,,74287,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,246,Finland,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,521670,,101939,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,246,Finland,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,667490,,53904,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,246,Finland,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,71480,,14972,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,246,Finland,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,100722,,115006,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,246,Finland,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,855969,,157352,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,246,Finland,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2434383,,212525,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,246,Finland,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,179910,,42454,,,0

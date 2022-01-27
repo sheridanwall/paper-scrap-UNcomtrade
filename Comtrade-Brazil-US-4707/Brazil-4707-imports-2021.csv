@@ -1,0 +1,37 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2021,202103,Mar-21,4,0,1,Imports,76,Brazil,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,276130,,72153,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,76,Brazil,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,105670,,25041,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,76,Brazil,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,540420,,132198,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,76,Brazil,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,168570,,46189,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1351360,,170210,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,76,Brazil,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,69220,,16517,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,76,Brazil,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,101340,,26144,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,848000,,183850,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,15212837,,3934863,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,76,Brazil,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,18673547,,4607165,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,520000,,106340,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,724500,,197710,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,105010,,24879,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,676176,,168313,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,41214,,11980,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,558,Nicaragua,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,206485,,64129,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,266931,,80609,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1476020,,193002,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,269930,,71526,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,106000,,20712,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,21847766,,5873732,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,76,Brazil,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,26240032,,6812932,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8058803,,1997907,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,76,Brazil,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9313943,,2232941,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,76,Brazil,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,45890,,5178,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,76,Brazil,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,203550,,46174,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,300000,,38400,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,76,Brazil,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,50700,,9882,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,655000,,135400,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,736000,,150100,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,76,Brazil,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,532420,,107610,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,76,Brazil,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,236849,,57034,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,171950,,39659,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,76,Brazil,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,50220,,10313,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6038148,,1358781,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,76,Brazil,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7765587,,1723497,,,0

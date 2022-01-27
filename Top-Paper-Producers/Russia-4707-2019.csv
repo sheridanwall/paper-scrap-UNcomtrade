@@ -1,0 +1,53 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,Jan-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,916067,,152849,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,21000,,2990,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,643,Russian Federation,,246,Finland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,21640,,5461,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,242870,,32243,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,643,Russian Federation,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,250000,,52500,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,298860,,87684,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,40158,,6235,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,316518,,44168,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,643,Russian Federation,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,15100,,3838,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1003236,,198820,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,375475,,62732,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,342968,,56821,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,643,Russian Federation,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1172410,,243029,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1499326,,252555,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,621371,,111723,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,643,Russian Federation,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1488750,,308603,,,0
+HS,2019,201905,May-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2127718,,392123,,,0
+HS,2019,201905,May-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,692860,,131159,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,927172,,171139,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1289115,,229720,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,643,Russian Federation,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,21940,,4072,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,845620,,186760,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1047610,,190858,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,643,Russian Federation,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,64900,,11962,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,643,Russian Federation,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,348540,,64665,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,626964,,97412,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1182400,,216125,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,643,Russian Federation,,246,Finland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19900,,2009,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,643,Russian Federation,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,61340,,8269,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,574950,,96831,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,992537,,174673,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,643,Russian Federation,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,43620,,8264,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,643,Russian Federation,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,94500,,14012,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,643,Russian Federation,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,78870,,10846,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,643,Russian Federation,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,100418,,13175,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1872750,,304268,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,883188,,159299,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,643,Russian Federation,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,73300,,16767,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,643,Russian Federation,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,818840,,111803,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,643,Russian Federation,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,102090,,13490,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,937316,,142468,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,997529,,155967,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,643,Russian Federation,,246,Finland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,97740,,9021,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,643,Russian Federation,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,36400,,7479,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,643,Russian Federation,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1093870,,149092,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,643,Russian Federation,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,106000,,13274,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,643,Russian Federation,,112,Belarus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3433106,,439253,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,643,Russian Federation,,233,Estonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,656833,,104184,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,643,Russian Federation,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,150316,,19829,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,643,Russian Federation,,428,Latvia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,756598,,90335,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,643,Russian Federation,,440,Lithuania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,105457,,12650,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,643,Russian Federation,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,118770,,21598,,,0

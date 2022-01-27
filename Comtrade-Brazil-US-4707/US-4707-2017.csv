@@ -1,0 +1,586 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1383400000,,248694316,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,679000,,161772,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,84,Belize,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,73000,,8683,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,613000,,159929,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,40000,,5000,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,358000,,63726,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,432000,,77895,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4460000,,1146067,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,137000,,44501,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1742000,,360545,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4000,,2661,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,97000,,24960,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,260000,,52341,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2179000,,318600,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,982000,,168804,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,104000,,16760,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3200000,,517170,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,73356000,,14736092,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10536000,,1777019,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,31680000,,6267177,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,343000,,55045,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6886000,,1784594,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,422,Lebanon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,127000,,19040,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,161637000,,33394827,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,198000,,25808,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,244000,,36541,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,39832000,,5605834,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,33705000,,6012393,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,40000,,5875,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,494000,,151434,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,223000,,63286,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,740,Suriname,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,111000,,16720,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,480000,,77860,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,601000,,101688,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7670000,,1982226,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2112000,,377303,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,743124000,,117040462,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,62081000,,14348551,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,823000,,127067,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,18000,,2716,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,564000,,95901,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,24000,,5500,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,818,Egypt,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,528000,,64530,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5487000,,1087636,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,40000,,5002,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6123000,,1176464,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3898000,,1104514,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2220000,,521685,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19000,,2817,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,407000,,61056,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,27013000,,4701922,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10269000,,2667935,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,134691000,,29998692,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,387000,,46899,,,0
+HS,2017,201709,September 2017,4,0,2,Exports,842,United States of America,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,49000,,14791,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1631467000,,275189340,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1886000,,426252,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2143000,,384519,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,419000,,133302,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3376000,,630662,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1769000,,272158,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,104417000,,21817919,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,16750000,,2789827,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5268000,,1442780,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,399000,,85000,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,127090000,,26536077,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1780000,,296501,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,51000,,7663,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1538000,,352698,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3396000,,880027,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1139010000,,178271597,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,50532000,,9632240,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,228000,,41220,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,31552000,,5372420,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,241000,,36109,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4399000,,1257920,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,79769000,,14518892,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19000,,8908,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9659000,,1935243,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,338000,,79335,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2059000,,579429,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1492000,,411990,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3074000,,906226,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,942000,,135747,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,571000,,163290,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,332,Haiti,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,223000,,45000,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,199000,,48054,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,68000,,14428,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,123000,,30800,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,22000,,10341,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,68,Bolivia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,668000,,100212,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,600000,,160136,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10162000,,1596209,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,740,Suriname,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,327000,,49004,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,65000,,14200,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,151000,,26050,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,66000,,9943,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,24362000,,3565027,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,97000,,29360,,,0
+HS,2017,201701,January 2017,4,0,2,Exports,842,United States of America,,818,Egypt,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,167000,,84625,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1532787000,,280006901,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,171000,,25500,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,108000,,33678,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,63000,,6300,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1416000,,407451,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,67792000,,15985716,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3674000,,774312,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,938762000,,156046562,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6436000,,1562394,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,342000,,52888,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1668000,,252558,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2938000,,630096,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4160000,,948122,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7875000,,1463417,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3597000,,869764,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,118000,,28275,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,41937000,,7632395,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,135000,,26147,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6372000,,1704690,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,171000,,20326,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10063000,,1909578,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,79257000,,16186561,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,606000,,217718,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,136057000,,30214343,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11547000,,2040772,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9371000,,2602552,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2190000,,561320,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,358000,,45731,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,116000,,16000,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4747000,,978253,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,814000,,115000,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,651000,,124918,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,419000,,100956,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3418000,,620792,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,116903000,,24599800,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,31113000,,4410097,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,254000,,40293,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,740,Suriname,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,110000,,16428,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,418000,,168773,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,33685000,,6017945,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,67000,,10000,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,265000,,85611,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,788,Tunisia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,320000,,38000,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,814000,,140803,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,818,Egypt,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,947000,,190354,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,525000,,78712,,,0
+HS,2017,201708,August 2017,4,0,2,Exports,842,United States of America,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,17000,,5000,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1451756000,,251303691,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000406000,,158907349,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19691000,,3562917,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,15009000,,2630157,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,61000,,14680,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,124199000,,27293341,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,71202000,,13715499,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,654000,,106427,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,170000,,20170,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,266,Gabon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,18000,,2682,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6084000,,1111801,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,352,Iceland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,220000,,44391,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,14939000,,2347778,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1775000,,390811,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1081000,,161386,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,40000,,15744,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,38000,,7789,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,185000,,40024,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,15738000,,1961074,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2444000,,597441,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,68,Bolivia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,485000,,72861,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,531000,,132936,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,84,Belize,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,75000,,8971,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5461000,,1420265,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,699000,,188055,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,72000,,29465,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,314000,,47083,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1741000,,318624,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,288000,,45376,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,382000,,57428,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,90380000,,19894730,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1320000,,330827,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,299000,,69273,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,646000,,99884,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2254000,,408775,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,481000,,75385,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2154000,,565962,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1746000,,432718,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1413000,,273387,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,62000,,13117,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,50000,,7558,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,54429000,,11267563,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5336000,,945633,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,285000,,62603,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,24000,,10563,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1300000,,203137,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5011000,,1291579,,,0
+HS,2017,201702,February 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,564000,,98472,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1593875000,,272016442,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,114040000,,24094391,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,422,Lebanon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,414000,,62092,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,34808000,,5151223,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1167000,,137095,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9020000,,2193684,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,462,Maldives,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,304000,,155077,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2818000,,482397,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,943000,,228939,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,246000,,51207,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,109000,,22018,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,86,Br. Indian Ocean Terr.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,210000,,52500,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2534000,,547847,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,13385000,,1949836,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,117000,,14544,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,45545000,,6222037,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,282027000,,50387792,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7468000,,1130501,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,740,Suriname,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,161000,,24120,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,872000,,147027,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,857590000,,129953584,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8151000,,2076129,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,171000,,29300,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1849000,,347001,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,56240000,,12099087,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,3521,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,609000,,116236,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,818,Egypt,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1101000,,180747,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1449000,,485288,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3426000,,517513,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6151000,,1261322,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1480000,,316480,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,570000,,94053,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1562000,,331397,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2682000,,729724,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1494000,,223342,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,14085000,,3209167,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,23000,,5500,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,405000,,72935,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,315000,,31500,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1259000,,290118,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,92000,,13780,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12648000,,2670819,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7686000,,1434790,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,92922000,,16712146,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,158000,,18840,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2049000,,440444,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,67399000,,10892130,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1096000,,165127,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1039357000,,158880005,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5228000,,1107175,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,56000,,14180,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2950000,,646037,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,100,Bulgaria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,17000,,4292,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,58876000,,12724680,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20056000,,3436260,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2038000,,434371,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10380000,,2696557,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,134118000,,29362453,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,422,Lebanon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,200000,,30000,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,340000,,82264,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,999000,,239809,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,150000,,23912,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,136000,,20129,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,748000,,112300,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,24,Angola,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1472000,,220767,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,116000,,18016,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,68,Bolivia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,527000,,78902,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,354000,,51087,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,26821000,,3503926,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20216000,,3046650,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,23000,,2700,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,148492000,,31193367,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6549000,,1004414,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,182000,,82589,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1125000,,168740,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3229000,,534679,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4909000,,1252424,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1873000,,350035,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4565000,,890652,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1491000,,391926,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,215000,,36991,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1216000,,181967,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,990000,,195392,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,206000,,67671,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,862,Venezuela,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,17000,,9957,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,374000,,73420,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1369000,,351091,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,40000,,10000,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,79000,,29721,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,818,Egypt,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,54000,,23671,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5558000,,1422009,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,64436000,,13037142,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5126000,,1055897,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,15192000,,2630408,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,149000,,27518,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1249000,,252809,,,0
+HS,2017,201705,May 2017,4,0,2,Exports,842,United States of America,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12000,,5480,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1460223000,,256176533,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,252000,,51617,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,818,Egypt,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,128000,,22452,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,90000,,13430,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,515000,,93787,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,464000,,120944,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,33000,,5000,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20507000,,3011505,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,87000,,24474,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,56000,,12902,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,511000,,118659,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,105000,,18189,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,68,Bolivia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,513000,,77117,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,23659000,,4376538,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,719000,,158091,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6536000,,1726775,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,431000,,81644,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5913000,,988283,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4292000,,963967,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,55165000,,12351231,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2505000,,670762,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,921054000,,142441756,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,831000,,143396,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,24000,,6545,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,153144000,,33641816,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,29000,,4376,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5653000,,938570,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,41000,,9600,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,29984000,,4637712,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,351000,,42500,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,40000,,10001,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10846000,,2175176,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,42000,,4200,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,131971000,,30496096,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,50041000,,9710820,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2285000,,499723,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11523000,,2515732,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2105000,,374719,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4805000,,955718,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2197000,,537244,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,642000,,109755,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3064000,,725906,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2800000,,470392,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2357000,,456574,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1065000,,249213,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,300000,,45000,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,275000,,72979,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,32000,,4863,,,0
+HS,2017,201704,April 2017,4,0,2,Exports,842,United States of America,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,241000,,8784,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1502791000,,267162689,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1596578000,,289004471,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2226000,,573055,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2592000,,631826,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1577000,,250537,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5626000,,995602,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,62000,,13127,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,650000,,157129,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,168000,,16800,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1162000,,273220,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,68,Bolivia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,941000,,141040,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,65744000,,12833734,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4900000,,842937,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,15020000,,2623974,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1203000,,272554,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,144250000,,33342430,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,60311000,,13287369,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2445000,,536058,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2093000,,491044,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1072795000,,177056309,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,26000,,14622,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,162,Christmas Isds,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,67000,,10000,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,292000,,37875,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8048000,,981603,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,100000,,20003,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,543000,,153195,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,490000,,126735,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,740,Suriname,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,220000,,32959,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19000,,9230,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,818,Egypt,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,138000,,29975,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3633000,,790299,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,283000,,72124,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,970000,,242946,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,583,FS Micronesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,105000,,10500,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7351000,,1884201,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,23544000,,4460402,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8078000,,2021042,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,538000,,97327,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,18000,,3702,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,978000,,225633,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,166000,,19795,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,43000,,6383,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,27097000,,4098687,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,120958000,,27821367,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6810000,,1099906,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1818000,,299215,,,0
+HS,2017,201703,March 2017,4,0,2,Exports,842,United States of America,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,480000,,96000,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1034000,,294223,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,168000,,16800,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,144000,,30780,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4578000,,772860,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,48000,,15054,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4045000,,1041480,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5265000,,1117150,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,496000,,74294,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2832000,,614499,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4689000,,841770,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,57876000,,13394903,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,978000,,158158,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5889000,,1449265,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,997504000,,161895390,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5850000,,963772,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9407000,,2598602,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3321000,,688804,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,112111000,,25053606,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,882,Samoa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,338000,,52800,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,205000,,30740,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,818,Egypt,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,383000,,60440,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,409000,,88912,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,77823000,,15630927,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7914000,,1568581,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6870000,,1578511,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,31263000,,5824143,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,425000,,110918,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,317000,,52401,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,368,Iraq,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,59000,,15282,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,583,FS Micronesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19000,,2658,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3430000,,849922,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,194000,,66829,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,367000,,59228,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,878000,,141870,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1084000,,267897,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4681000,,775594,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,17251000,,2596753,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,113251000,,23363075,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,48000,,7157,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,70000,,36421,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,740,Suriname,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,109000,,16276,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,182000,,25988,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,18380000,,2752621,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,289000,,101175,,,0
+HS,2017,201707,July 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,317000,,64160,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1557865000,,271510323,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,999670000,,158096494,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3337000,,920365,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,204000,,42421,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,64785000,,14164682,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5449000,,976421,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11724000,,2014783,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4284000,,848535,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11932000,,3053518,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,133398000,,28725682,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,264000,,44742,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,599000,,124896,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1199000,,333397,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,84,Belize,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,74000,,8838,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,42000,,4200,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,68,Bolivia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,275000,,41254,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,86,Br. Indian Ocean Terr.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,191000,,47750,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4680000,,796858,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2578000,,527128,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,174000,,35000,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4509000,,1142490,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,81000,,12595,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,987000,,183714,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,500000,,87205,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3003000,,649753,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,202000,,71685,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3275000,,522482,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2567000,,481705,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,164000,,24642,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,145000,,34995,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,85000,,21171,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,65024000,,13056419,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7850000,,1419235,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5774000,,1477453,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,170000,,20159,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,35854000,,6424727,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,283000,,42423,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1422000,,291474,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1220000,,237484,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,476000,,119104,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,818,Egypt,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,332000,,70016,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,719000,,236780,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,17000,,4421,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,130425000,,27125694,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4974000,,772175,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19311000,,2775050,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,200000,,95705,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,42000,,5002,,,0
+HS,2017,201706,June 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,23395000,,3297601,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1492537000,,248689982,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6192000,,1373264,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1097000,,272349,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,352000,,54056,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3273000,,629709,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3845000,,1100594,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,235000,,40438,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7691000,,1915077,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2967000,,623639,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,629255000,,93194600,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,68556000,,14348186,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,18000,,7008,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,92000,,18098,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,288000,,68700,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2095000,,486584,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12618000,,2901122,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,87000,,13106,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,210000,,21000,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,584,Marshall Isds,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,300000,,45000,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1076000,,238025,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3798000,,603936,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,21689000,,4636084,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,457000,,73760,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,13940000,,3365462,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6666000,,1267258,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,184000,,50181,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,100000,,7233,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,58739000,,9721385,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,91122000,,15302909,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3063000,,480085,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,422,Lebanon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,87000,,12976,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,59741000,,9213310,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,132744000,,27906639,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,245654000,,42056967,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4737000,,813165,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,163000,,38956,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1561000,,305038,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1377000,,238080,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,84025000,,12093098,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,740,Suriname,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,133000,,19907,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,18233000,,2411234,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,614000,,97786,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,361000,,64207,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,57000,,11553,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1685000,,328550,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,166000,,33290,,,0
+HS,2017,201711,November 2017,4,0,2,Exports,842,United States of America,,818,Egypt,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1194000,,186378,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1407426000,,236697055,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,818,Egypt,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,304000,,80154,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,606000,,141802,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,251000,,65517,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19000,,3000,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,24000,,7500,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,45876000,,6456273,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11000,,2582,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2668000,,559746,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,760000,,125521,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6157000,,1418707,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,288,Ghana,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,67000,,33924,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,81000,,12595,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4121000,,1020043,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12310000,,2271228,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,75000,,15028,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,999000,,155847,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,211000,,39541,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,230000,,50976,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1094000,,303062,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1713000,,256935,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10591000,,1936957,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2963000,,683664,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,132000,,33549,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,13969000,,3229446,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,26000,,3947,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,219000,,27437,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,58407000,,9162500,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1186000,,181636,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1594000,,385727,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,67151000,,13952966,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,533993000,,78656794,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2097000,,398046,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,143000,,24740,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,241000,,36167,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,86,Br. Indian Ocean Terr.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,90000,,22500,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9897000,,2333851,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,52231000,,7884284,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2022000,,227969,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,148116000,,32729791,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11000,,8909,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,73095000,,13973906,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5623000,,976098,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1887000,,346152,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,209000,,31367,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9425000,,2142073,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20000,,2501,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10566000,,2708113,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19000,,2909,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,257584000,,42103567,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,60032000,,8627580,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,876000,,123016,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5026000,,632811,,,0
+HS,2017,201710,October 2017,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,408000,,86101,,,0
+HS,2017,201712,December 2017,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1660852000,,277776347,,,0

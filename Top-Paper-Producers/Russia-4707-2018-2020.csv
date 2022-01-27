@@ -1,0 +1,30 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,4,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,12702161,,,,12702161,,2461611,,,0
+H5,2018,2018,2018,4,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,282,,,,282,,265,,,0
+H5,2018,2018,2018,4,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,254880,,,,254880,,66256,,,0
+H5,2018,2018,2018,4,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,20,,,,20,,155,,,0
+H5,2018,2018,2018,4,0,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,5400669,,,,5400669,,862704,,,0
+H5,2018,2018,2018,4,0,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,291920,,,,291920,,41485,,,0
+H5,2018,2018,2018,4,0,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,147998,,,,147998,,39555,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,15063085,,,,15063085,,2522162,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,8800076,,,,8800076,,1545663,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,139280,,,,139280,,16490,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,153320,,,,153320,,32509,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,244816,,,,244816,,33840,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,902356,,,,902356,,133232,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2911160,,,,2911160,,604131,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,2835018,,,,2835018,,378108,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,475305,,,,475305,,60858,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,348540,,,,348540,,64664,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,118770,,,,118770,,21597,,,0
+H5,2019,2019,2019,4,0,1,Import,643,Russian Federation,RUS,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,15100,,,,15100,,3838,,,0
+H5,2020,2020,2020,4,0,1,Import,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,24496418,,,,24496418,,3390918,,,0
+H5,2020,2020,2020,4,0,1,Import,643,Russian Federation,RUS,233,Estonia,EST,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,8731097,,,,8731097,,1363475,,,0
+H5,2020,2020,2020,4,0,1,Import,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,4891411,,,,4891411,,538909,,,0
+H5,2020,2020,2020,4,0,1,Import,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,369831,,,,369831,,25413,,,0
+H5,2020,2020,2020,4,0,1,Import,643,Russian Federation,RUS,376,Israel,ISR,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,12040,,,,12040,,2105,,,0
+H5,2020,2020,2020,4,0,1,Import,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,6881460,,,,6881460,,824608,,,0
+H5,2020,2020,2020,4,0,1,Import,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,22887140,,,,22887140,,3278977,,,0
+H5,2020,2020,2020,4,0,1,Import,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3081248,,,,3081248,,432467,,,0
+H5,2020,2020,2020,4,0,1,Import,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1671592,,,,1671592,,357998,,,0
+H5,2020,2020,2020,4,0,1,Import,643,Russian Federation,RUS,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1550190,,,,1550190,,272564,,,0

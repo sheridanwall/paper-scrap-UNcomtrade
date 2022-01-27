@@ -1,0 +1,57 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201902,Feb-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,344892,,100509,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,109000,,18920,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,76,Brazil,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,112370,,32001,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,653536,,139248,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,924031,,143862,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,76,Brazil,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,379890,,71567,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2194937,,368183,,,0
+HS,2019,201905,May-19,4,0,1,Imports,76,Brazil,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5598,,1663,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,76,Brazil,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,87,,16,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,743121,,215015,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,76,Brazil,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5846,,964,,,0
+HS,2019,201905,May-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1414946,,297485,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1755090,,276159,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,76,Brazil,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10523,,1440,,,0
+HS,2019,201905,May-19,4,0,1,Imports,76,Brazil,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,328540,,63100,,,0
+HS,2019,201905,May-19,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,191500,,36003,,,0
+HS,2019,201905,May-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,116160,,44996,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,76,Brazil,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,401760,,63817,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,26000,,4140,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,54000,,1520,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,217645,,61141,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,218000,,43500,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,76,Brazil,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5204,,5880,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1089063,,170745,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,378464,,106352,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,76,Brazil,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,2399,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,761011,,114613,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,76,Brazil,,558,Nicaragua,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,107935,,18873,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,76,Brazil,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,46811,,7207,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,26000,,3100,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,300000,,36000,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,76,Brazil,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,881160,,161698,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,76,Brazil,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,117390,,17774,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,39345,,24625,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1562213,,426755,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1390690,,223716,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,213500,,23700,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,76,Brazil,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1172780,,215228,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,50000,,9250,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,76,Brazil,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,181980,,21034,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,27500,,8750,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,50000,,12617,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,76,Brazil,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,50410,,14533,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,76,Brazil,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,74,,12,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,13849,,23855,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,81500,,16200,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,76,Brazil,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,445850,,74218,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,183000,,35984,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,224000,,36939,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,469700,,53898,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,76,Brazil,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,34970,,10100,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,119713,,40023,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,76,Brazil,,600,Paraguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,110000,,32129,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,981448,,274888,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,76,Brazil,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,969,,356,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,76,Brazil,,858,Uruguay,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,35499,,11964,,,0

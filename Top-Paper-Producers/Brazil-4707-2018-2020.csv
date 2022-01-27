@@ -1,0 +1,40 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,124,Canada,CAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,246632,,,,246632,,56554,,,0
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,152,Chile,CHL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,63370,,,,63370,,12356,,,0
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,156,China,CHN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,9833,,,,9833,,11134,,,0
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1376600,,,,1376600,,278400,,,0
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,246,Finland,FIN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,51600,,,,51600,,39891,,,0
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,276,Germany,DEU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,10782,,,,10782,,2193,,,6
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,22234,,,,22234,,6424,,,0
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,392,Japan,JPN,,,,,,,,4707,Waste and scrap of paper and paperboard,1,No Quantity,0,,,,,,47,,,6
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,470,Malta,MLT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,55330,,,,55330,,15888,,,0
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,591,Panama,PAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,126479,,,,126479,,32399,,,0
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,5874400,,,,5874400,,1111683,,,0
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,10636516,,,,10636516,,2505339,,,0
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,6667365,,,,6667365,,1309357,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,124,Canada,CAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,46811,,,,46811,,7207,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,152,Chile,CHL,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,696110,,,,696110,,116852,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,156,China,CHN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,5204,,,,5204,,5880,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3208220,,,,3208220,,585811,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,276,Germany,DEU,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,21959,,,,21959,,4079,,,6
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,392,Japan,JPN,,,,,,,,4707,Waste and scrap of paper and paperboard,1,No Quantity,0,,,,,,2415,,,6
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,470,Malta,MLT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,50410,,,,50410,,14533,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,484,Mexico,MEX,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,34970,,,,34970,,10100,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,558,Nicaragua,NIC,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,107935,,,,107935,,18873,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,591,Panama,PAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,117390,,,,117390,,17774,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1998700,,,,1998700,,307559,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,699,India,IND,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,969,,,,969,,356,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,13539906,,,,13539906,,2718282,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1530747,,,,1530747,,410943,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,214,Dominican Rep.,DOM,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,3039480,,,,3039480,,585575,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,251,France,FRA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,5,,,,5,,391,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,276,Germany,DEU,,,,,,,,4707,Waste and scrap of paper and paperboard,1,No Quantity,0,,,,,,2633,,,6
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,10,,,,10,,125,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,558,Nicaragua,NIC,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,659391,,,,659391,,124510,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,591,Panama,PAN,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,599547,,,,599547,,118656,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,1397700,,,,1397700,,206688,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,292420,,,,292420,,60847,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,724,Spain,ESP,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,193060,,,,193060,,48167,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,22136,,,,22136,,8787,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,842,USA,USA,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,17411520,,,,17411520,,3504805,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,858,Uruguay,URY,,,,,,,,4707,Waste and scrap of paper and paperboard,8,Weight in kilograms,723680,,,,723680,,124389,,,0

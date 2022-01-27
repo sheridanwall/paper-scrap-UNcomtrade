@@ -1,0 +1,107 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,Jan-19,4,0,1,Imports,124,Canada,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3000,,365,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,38000,,4860,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,18000,,2976,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,1352,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,124,Canada,,348,Hungary,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,2,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,124,Canada,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,491,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11000,,781,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,0,,14248420,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,88000,,18359,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,1374,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,124,Canada,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,2,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,124,Canada,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,36,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5000,,488,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,12949233,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,193000,,52763,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,1355,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20000,,2040,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,124,Canada,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,1,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,124,Canada,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,1514,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,124,Canada,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,53,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,124,Canada,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,294,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,124,Canada,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19000,,20095,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,124,Canada,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,2,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,170000,,17051,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,0,,13744894,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,101000,,23817,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,1032,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,35000,,3514,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,15,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,124,Canada,,348,Hungary,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,1,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,124,Canada,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,1,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,124,Canada,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,28,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,124,Canada,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,48,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3000,,158,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,0,,12697969,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,99000,,23779,,,0
+HS,2019,201905,May-19,4,0,1,Imports,124,Canada,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,62,,,0
+HS,2019,201905,May-19,4,0,1,Imports,124,Canada,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,22000,,7472,,,0
+HS,2019,201905,May-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,576,,,0
+HS,2019,201905,May-19,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,15000,,1502,,,0
+HS,2019,201905,May-19,4,0,1,Imports,124,Canada,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7000,,729,,,0
+HS,2019,201905,May-19,4,0,1,Imports,124,Canada,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,82,,,0
+HS,2019,201905,May-19,4,0,1,Imports,124,Canada,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,319,,,0
+HS,2019,201905,May-19,4,0,1,Imports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3000,,316,,,0
+HS,2019,201905,May-19,4,0,1,Imports,124,Canada,,804,Ukraine,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19000,,10101,,,0
+HS,2019,201905,May-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,0,,10822416,,,0
+HS,2019,201905,May-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,152000,,41544,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,124,Canada,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,32,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,1333,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,192,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,124,Canada,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,30000,,9050,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,124,Canada,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,105,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,124,Canada,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,192,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,199,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,211,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,9283285,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,0,,19694,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,124,Canada,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,22,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,124,Canada,,40,Austria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,399,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,654,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,124,Canada,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4000,,571,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,124,Canada,,581,United States Minor Outlying Islands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,21000,,2112,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,124,Canada,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,31,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,0,,9456691,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,39000,,12856,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,124,Canada,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,9,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,1151,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,124,Canada,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,1,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,124,Canada,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,38,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,46000,,3093,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,0,,7512993,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,62000,,26096,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,124,Canada,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,42,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,3517,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,124,Canada,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,44000,,2763,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,124,Canada,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,73,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,124,Canada,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,94,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20000,,1315,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,0,,7412915,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,60000,,10659,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,124,Canada,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,11,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,1824,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,124,Canada,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,26,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,124,Canada,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8000,,846,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19000,,1260,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,304,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,9176420,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,71000,,23775,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,124,Canada,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3000,,188,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,124,Canada,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19000,,17876,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,4952,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,124,Canada,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,80,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,124,Canada,,348,Hungary,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,2,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,124,Canada,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,252,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,15000,,978,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,7765322,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,120000,,34343,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,124,Canada,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,36,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,124,Canada,,76,Brazil,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,75000,,11250,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,124,Canada,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,0,,12709,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,134,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,124,Canada,,348,Hungary,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,,,2,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,124,Canada,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,69,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,124,Canada,,666,Saint Pierre and Miquelon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,16000,,1089,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,124,Canada,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,125278000,,7376842,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,124,Canada,,899,"Areas, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,58000,,16404,,,0

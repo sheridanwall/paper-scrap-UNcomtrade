@@ -1,0 +1,64 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201909,Sep-19,4,0,1,Imports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,4282,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,35513000,,5104866,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,842,United States of America,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,2881,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1597000,,270283,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,7664,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,786000,,5756,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,842,United States of America,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,4624,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,48680000,,10336370,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,3314,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,9307,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1668000,,316440,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,7057,,,0
+HS,2019,201905,May-19,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4000,,8528,,,0
+HS,2019,201905,May-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,40607000,,7319678,,,0
+HS,2019,201905,May-19,4,0,1,Imports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,3364,,,0
+HS,2019,201905,May-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1216000,,203596,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,37848000,,5317458,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7000,,16747,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,2929,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1494000,,245568,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,8050,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2351000,,405418,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,3918,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,842,United States of America,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,7497,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,42129000,,8542534,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,842,United States of America,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,7007,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,842,United States of America,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,5845,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,14000,,12579,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,55000,,11078,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,842,United States of America,,136,Cayman Isds,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,17000,,10465,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,139000,,26125,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,6219,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3030000,,473923,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,51551000,,10927335,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,37807000,,5649120,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,842,United States of America,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3000,,6288,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,842,United States of America,,136,Cayman Isds,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8000,,4789,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,810000,,149432,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,3101,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,842,United States of America,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3000,,11634,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,842,United States of America,,104,Myanmar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,76000,,15124,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,9206,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,40006000,,5777282,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,13000,,7236,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1741000,,279610,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,35778000,,5053013,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,113000,,44331,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,688000,,163684,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1741000,,358703,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,842,United States of America,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,3642,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,37585000,,5396999,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,842,United States of America,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,11421,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,859000,,144145,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1412000,,237096,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,45184000,,9574025,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,171000,,41474,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,2125,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,39055000,,5522283,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,938000,,203210,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,58000,,11431,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,842,United States of America,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,27000,,12125,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,442000,,28121,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,4599,,,0

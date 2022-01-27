@@ -1,0 +1,573 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2731180,,575416,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,264376,,702073,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,66895,,56930,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,285601,,85234,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,60533,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,52945606,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,13401,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,621576,,657649,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19404,,18670,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,16519,,23000,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5825,,19657,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,11187003,,5976951,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,48,Bahrain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,642,,12111,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,60,Bermuda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1448,,7416,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4789797,,1385535,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6969930,,3937886,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,159100,,131079,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2276,,16804,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,404872,,147748,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,882,Samoa,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4019,,15653,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,602179,,210038,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,31370,,16413,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17816,,10990,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,25198,,48010,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,136582,,105838,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,181,,21124,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,393646,,334814,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,56439,,158242,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9833,,24863,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8583,,458472,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3398488,,1028773,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2723601,,1568496,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,414,Kuwait,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1652,,4880,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2791724,,736534,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6741,,15625,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17141,,7845,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2072,,24449,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,90996,,38059,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17351954,,7425554,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,36851,,25421,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,642,Romania,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,5225,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,7800,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,17812402,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2826338,,975275,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3265,,24483,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8556941,,4675654,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,63100,,61697,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2839256,,800219,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,39367,,39564,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,49063,,38510,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1057961,,235009,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4451461,,1006346,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,504,Morocco,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,6935,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,5300,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,72348173,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,44228,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,19960081,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,300268,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,2453803,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,40,Austria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,6950,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,4536,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,212477,,82550,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,43313,,21672,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,252597,,119880,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20921,,22764,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,94677,,62583,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,77160,,30232,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,79333,,70041,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,373279,,305393,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19895,,14328,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,662,Saint Lucia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1500,,79868,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,159292,,191150,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,766223,,185306,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3052789,,1239521,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,134323,,341480,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,116877,,62698,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2353786,,836137,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,63456,,162666,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,351733,,131071,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,152182,,38816,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,310,,21534,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,420634,,111395,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2076150,,622497,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1052,,8110,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,59065,,52593,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2261583,,1963182,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,435199,,382220,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,798,,54068,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,58739,,40864,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,858,Uruguay,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20000,,21300,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9538253,,5445823,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,22740,,10612,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,61987,,95558,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8475,,10777,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,14118,,56264,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,281215,,151053,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,58946,,55602,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,21470347,,6905290,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,104,Myanmar,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,21228,,11108,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,59544,,15791,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,208,Denmark,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,7983,,15840,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2296147,,507658,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,231260,,109330,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,40,Austria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,908,,2940,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1385521,,404207,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1242,,12500,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3590101,,2236312,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4594033,,951178,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,135397,,48750,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,74278847,,26225305,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,138511,,44295,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,761486,,204920,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,360483,,97201,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,405442,,345303,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19876,,2848,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,244415,,125907,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,211881,,144840,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,268,Georgia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19000,,6935,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20000,,4709,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,301276,,256200,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4966,,9500,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,320283,,112425,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4820,,19710,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,221082,,625729,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18874,,96744,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5502,,17661,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,58394,,17901,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,95000,,24000,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,87865,,43054,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,180547,,137261,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4876,,19883,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,554,New Zealand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2394,,12097,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,35828,,15326,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2375,,65349,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15387,,23543,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3057166,,2049091,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2130249,,507988,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8308,,26368,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,48615,,48670,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,46645,,29666,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,328,Guyana,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15489,,21279,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,53453332,,17258275,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2054777,,700901,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,348,Hungary,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,16600,,3300,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17684,,12105,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4833650,,1394005,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,783048,,179453,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,407560,,400631,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,859484,,117544,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,962,,7571,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,66344,,136878,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,426928,,83910,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,882,Samoa,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4025,,14700,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,887,Yemen,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,7000,,12000,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,61941156,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,19507006,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,13164678,,5951076,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,14418,,8276,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17516,,23483,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,40425,,26357,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,3404,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,8806,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,321948,,130096,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,34536,,29506,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,120527,,224499,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,69037,,61755,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,39093491,,14649368,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1781121,,1524031,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,45915,,97293,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,172492,,87455,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,60649491,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,21236426,,5933066,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,110734,,184413,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,44747,,7217,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,114187,,54697,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,59260,,29076,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,69756,,53168,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,12460,,151950,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,311871,,117897,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,80898,,45342,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,54877,,41134,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,40,Austria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,7969,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,616,Poland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,3900,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,10682349,,5737645,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15316822,,7468886,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15524,,80400,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4903252,,1410511,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,304174,,210193,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1765,,12940,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,551721,,127407,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,777965,,175697,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,111996,,114106,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,68,Bolivia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,31678,,5666,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,305044,,554984,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,52,Barbados,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2026,,4444,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,216,,23496,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,796,Turks and Caicos Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1034,,11436,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20158,,13220,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,118428,,94768,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,539511,,486867,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,51875,,130611,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,393359,,85511,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5741,,188406,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,82468,,108250,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3382470,,882024,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,205589,,31647,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,35600,,22000,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,250215,,444689,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,547,,2726,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18339,,16352,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,64629,,57779,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3646084,,624600,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20390,,20000,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,388519,,61947,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,53186,,19436,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,54386,,25014,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,142064,,63466,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,59393357,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,48446924,,17257287,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,45926792,,14896136,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,49592,,103716,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,48,Bahrain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2631,,19004,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,11962,,26164,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,54969,,553685,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,60,Bermuda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,613,,5852,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,75048,,23512,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9824,,26092,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,41134,,19934,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,117039,,41706,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,730467,,671848,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,115631,,123065,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,213605,,157456,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,268,Georgia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17113,,2934,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,65888764,,35329243,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,112305,,51934,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,26645,,126675,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,56501,,41691,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,606,,4234,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1644,,12010,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,703,Slovakia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2167,,17483,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,346279,,104363,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6391325,,1805266,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,14161,,7615,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,576232,,207207,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,740,Suriname,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3057,,6705,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2268173,,667831,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3379,,12075,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,39953,,42629,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,796,Turks and Caicos Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,689,,2623,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,882,Samoa,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4024,,14700,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3139738,,1941728,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3408590,,836715,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,924,,3046,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,524,Nepal,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18398,,7909,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,171911,,157604,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,75586,,116535,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,60385176,,20568076,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,78026,,33383,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,11095,,11299,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,51760,,317137,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,178752,,52799,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3090,,15918,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1506820,,528974,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,25000,,10000,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17000,,14450,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1011714,,236580,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,237613,,83760,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,478,Mauritania,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8881,,40726,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,453075,,535570,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,198763,,209046,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,862,Venezuela,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3064,,36570,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,215167,,197503,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2776,,11438,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,265890,,201978,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,100279,,306186,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4313,,12347,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,53710,,119297,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,40,Austria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,425,,2651,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20394,,21000,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18260,,6200,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2241202,,440869,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,400,Jordan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,863,,20624,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,628,,24907,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3375466,,1008364,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,780,Trinidad and Tobago,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2737,,18708,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,29070,,60760,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,250108,,223282,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,109413,,306767,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,328,Guyana,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,16632,,25931,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,63295626,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,58220448,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,68065685,,23993219,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,294434,,574134,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,66187,,76485,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,89448,,42436,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,34013,,41015,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2937184,,619415,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,43802,,36350,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15353,,8345,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,336,Holy See (Vatican City State),,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,37946,,10000,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19278,,11050,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,284757,,252316,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15734,,28914,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,160000,,69570,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,337464,,292866,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1800,,3582,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,68,Bolivia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5148,,9479,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,123460,,41698,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,77129,,208525,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,394655,,327717,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6578038,,1806561,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,339721,,97551,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1641,,11979,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,820208,,261676,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,110780,,40665,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,303919,,203474,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,62,,3821,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3047034,,903349,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5692,,136233,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,78679,,36095,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,117729,,48792,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18588,,10967,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,64920550,,22270865,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,106478,,217123,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,18201,,21890,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1388,,16907,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,554,New Zealand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1097,,23925,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3279339,,1721514,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,22274,,25929,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,533,Aruba,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,792,,4920,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,882,Samoa,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8049,,29400,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,10790445,,5468889,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3914200,,998018,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9368325,,4943330,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2851019,,942441,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,12816609,,7186257,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,253121,,93023,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2877308,,2416187,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3978469,,642336,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,287920,,120605,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,54186,,62145,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,97153,,961556,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,196341,,550847,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,11252,,101318,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,84,Belize,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,610,,2820,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,100,Bulgaria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,235,,13762,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,104,Myanmar,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20013,,8432,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,416401,,454707,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,36092,,33369,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,152,Chile,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,82316,,256000,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,54939,,16100,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,169887,,107154,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,21005,,30303,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,554,New Zealand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9941,,37805,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2623,,16512,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,204823,,28702,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,620,Portugal,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19051,,9492,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,554366,,475213,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,131162,,194454,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,133403,,97878,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2622446,,742825,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,103256,,77306,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,136089,,251390,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,682,Saudi Arabia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20000,,12127,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19051,,4500,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6619404,,1848740,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,289660,,42410,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,796,Turks and Caicos Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,448,,2730,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,518346,,143565,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,48,,2736,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,26622,,18185,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15863191,,6786252,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4459342,,2628444,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4409,,101828,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,334,Heard Island and McDonald Islands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,57000,,15000,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1743292,,627178,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,64662659,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,348,Hungary,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,16355,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,15557337,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,13802760,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,11242,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,68514784,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4065917,,1039409,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9863598,,4829539,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,9226,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,11180,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,858,Uruguay,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,7660,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,32,Argentina,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,6691,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8819823,,4828801,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,414,Kuwait,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5443,,17050,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,28139,,20627,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,446,"China, Macao SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,649,,12000,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,220852,,154017,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,74366,,41115,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,642,Romania,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20179,,20769,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,12968,,20567,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,372,,5731,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,202939,,124766,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5735,,26174,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,400,Jordan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8160,,27920,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2950051,,973990,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,40959,,23345,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4801,,15253,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,38947,,46984,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,279553,,261619,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,30993,,7947,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,472435,,412742,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,57400,,29724,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,173197,,126664,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,54806,,133387,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,7053796,,2045256,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,17718,,53207,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,603847,,95286,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,705,Slovenia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19051,,3500,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,61071,,12000,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,56144,,23070,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,179451,,65832,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,48,Bahrain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1266,,16339,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,77715,,231869,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,796,Turks and Caicos Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2488,,18403,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,784,United Arab Emirates,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,12000,,8280,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,45484170,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,91444,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,348,Hungary,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,4347,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,7689,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,45471,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,67867126,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,75023864,,24413860,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,22375,,8574,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,44668,,35707,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15135,,71725,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,132717,,196759,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3393735,,1741502,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3356,,4106,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,218,Ecuador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20000,,24770,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,238585,,140984,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,80672,,68351,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,32249,,61192,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,435598,,295407,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,69521,,29620,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19000,,6935,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,168,,8916,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,180404,,47165,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,60,Bermuda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,786,,3345,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,83024,,846648,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,41655,,35894,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,100,Bulgaria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,14593,,8829,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,328841,,147803,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2928,,17218,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,330998,,73379,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,702,Singapore,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,63970,,162161,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6807453,,2162784,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,422,Lebanon,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3023,,11207,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,683,,5500,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5458,,207994,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3683498,,1148156,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,621542,,242311,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,10577711,,6185052,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,40,Austria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,3300,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,348,Hungary,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,12906,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,5621,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,0,World,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,58541823,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,21945,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,348,Hungary,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,4347,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,,,11844,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,56749,,40456,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,62597,,51536,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,13414,,29063,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2492869,,416757,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,105459,,133290,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6601,,209537,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,366115,,116086,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,646432,,159649,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,67556041,,22712762,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,204113,,45337,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,27739,,28717,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,144,Sri Lanka,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20000,,3000,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2706,,26908,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,124,Canada,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,10550943,,5974443,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,30779,,20114,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,608,Philippines,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,222012,,37621,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,586,Pakistan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,82031,,34160,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,254669,,76895,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,533,Aruba,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,341,,3073,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,186,,5725,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8122160,,3964795,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,222770,,114394,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5296546,,1749362,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,710,South Africa,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,74,,3840,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1710,,15177,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,675152,,260278,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,414,Kuwait,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1833,,6289,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2696174,,1595724,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,3538572,,929123,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,58798,,62974,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1972369,,631907,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1597,,24612,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6719990,,3553378,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,31779,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,189044,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,16043879,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,410,Rep. of Korea,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,356052,,201225,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,388,Jamaica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1103,,4196,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,604,Peru,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19000,,6935,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,67379909,,20932361,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,558,Nicaragua,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,20348,,17949,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,882,Samoa,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8223,,30353,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,268,Georgia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,19048,,24585,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,659,Saint Kitts and Nevis,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4491,,9900,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,203,Czech Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,608,,12392,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,704,Viet Nam,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8914442,,2622035,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,968,,14553,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6726,,583185,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15567,,108611,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,764,Thailand,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,670517,,90957,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,792,Turkey,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,746355,,208915,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,431969,,359516,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,60,Bermuda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,550,,2698,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2484501,,1909170,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,826,United Kingdom,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,24251,,12728,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,158403,,435234,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,170,Colombia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,49950,,26438,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,414,Kuwait,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1908,,13409,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,566,Nigeria,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,25001,,9464,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,332,Haiti,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,145,,4365,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,340,Honduras,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,72635,,167896,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,136,Cayman Isds,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5223,,26946,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,188,Costa Rica,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,250,,7147,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,360,Indonesia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2537480,,831600,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,724,Spain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,268387,,187035,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,30500,,7060,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,528,Netherlands,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,50963,,73451,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,52,Barbados,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,322,,3358,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,167539,,77886,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,458,Malaysia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,4011602,,901037,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,752,Sweden,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1422,,10793,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,591,Panama,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,8422,,26356,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,97023,,660176,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,121577,,277571,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,276394,,184444,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,70503793,,24671617,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,101727,,36216,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,373824,,137361,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,842,United States of America,,372,Ireland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,16607,,147381,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,26872,,15521,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,17753592,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,65775,,32192,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,276,Germany,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,9403,,44167,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,67299839,,23186515,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,842,United States of America,,484,Mexico,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2848961,,1722949,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,156,China,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,0,,27757044,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,757,Switzerland,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,11000,,9900,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,6868112,,3586015,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1021832,,299551,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,699,India,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,5040055,,2656431,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,251,France,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1669,,21180,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,842,United States of America,,490,"Other Asia, nes",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,2334229,,770660,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,76,Brazil,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,7640,,10118,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,50,Bangladesh,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,60683,,29431,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,60,Bermuda,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,1204,,6289,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,56,Belgium,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,117177,,783288,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,48,Bahrain,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,807,,4160,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,36,Australia,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,321966,,844391,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,300,Greece,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,54136,,31085,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,320,Guatemala,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,252063,,183523,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,214,Dominican Rep.,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,212320,,311639,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,222,El Salvador,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,535955,,480783,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,392,Japan,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,15374,,393046,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,376,Israel,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,21337,,37770,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,381,Italy,,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,36557,,44854,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,56133630,,19598576,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,842,United States of America,,344,"China, Hong Kong SAR",,,,,,,,,3915,"Waste, parings and scrap, of plastics",,,,,,,61895238,,19910896,,,0

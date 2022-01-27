@@ -1,0 +1,50 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2021,202109,Sep-21,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1905000,,360344,,,0
+HS,2021,202109,Sep-21,4,0,1,Imports,842,United States of America,,699,India,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2000,,15250,,,0
+HS,2021,202109,Sep-21,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7000,,13404,,,0
+HS,2021,202109,Sep-21,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,83178000,,15196709,,,0
+HS,2021,202109,Sep-21,4,0,1,Imports,842,United States of America,,136,Cayman Isds,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20000,,9903,,,0
+HS,2021,202110,Oct-21,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1560000,,298774,,,0
+HS,2021,202110,Oct-21,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,2325,,,0
+HS,2021,202110,Oct-21,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,80656000,,15045560,,,0
+HS,2021,202110,Oct-21,4,0,1,Imports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,17000,,5286,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,63338000,,9248319,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,14000,,5712,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,842,United States of America,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,31000,,6199,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2378000,,358373,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,842,United States of America,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,2504,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,842,United States of America,,246,Finland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,4118,,,0
+HS,2021,202108,Aug-21,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,80625000,,14350318,,,0
+HS,2021,202108,Aug-21,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2228000,,383474,,,0
+HS,2021,202106,Jun-21,4,0,1,Imports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,14000,,8745,,,0
+HS,2021,202106,Jun-21,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1270000,,226065,,,0
+HS,2021,202106,Jun-21,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,74116000,,11420180,,,0
+HS,2021,202108,Aug-21,4,0,1,Imports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,3000,,,0
+HS,2021,202108,Aug-21,4,0,1,Imports,842,United States of America,,203,Czech Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,2109,,,0
+HS,2021,202108,Aug-21,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,6653,,,0
+HS,2021,202105,May-21,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,169000,,53809,,,0
+HS,2021,202105,May-21,4,0,1,Imports,842,United States of America,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,8180,,,0
+HS,2021,202105,May-21,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1068000,,184847,,,0
+HS,2021,202105,May-21,4,0,1,Imports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4000,,4961,,,0
+HS,2021,202105,May-21,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,67753000,,10027564,,,0
+HS,2021,202111,Nov-21,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1663000,,314284,,,0
+HS,2021,202111,Nov-21,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,75757000,,14066590,,,0
+HS,2021,202111,Nov-21,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,25000,,12815,,,0
+HS,2021,202111,Nov-21,4,0,1,Imports,842,United States of America,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,3295,,,0
+HS,2021,202107,Jul-21,4,0,1,Imports,842,United States of America,,703,Slovakia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19000,,8670,,,0
+HS,2021,202107,Jul-21,4,0,1,Imports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4000,,4298,,,0
+HS,2021,202107,Jul-21,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,306000,,56295,,,0
+HS,2021,202107,Jul-21,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1654000,,307610,,,0
+HS,2021,202107,Jul-21,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,72691000,,11952289,,,0
+HS,2021,202107,Jul-21,4,0,1,Imports,842,United States of America,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,5937,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,60373000,,8428896,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1296000,,204842,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,842,United States of America,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1000,,2452,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,242000,,34108,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,842,United States of America,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5000,,15070,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1791000,,265172,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8000,,3450,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,68453000,,9809630,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,842,United States of America,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1409000,,204274,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,842,United States of America,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,54766000,,7928743,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,842,United States of America,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10000,,3250,,,0

@@ -1,0 +1,719 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6833600,,1237173,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9585000,,1507248,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9480750,,1522490,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,213428976,,37222919,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4266110,,723262,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,253470,,76602,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,13772200,,2440636,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1417000,,290334,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9740770,,1863137,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1166040,,417022,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5359330,,1274608,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,194287020,,41326023,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8280370,,1636603,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,462000,,40195,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,518560,,102978,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,564150,,103193,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1716240,,358317,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,334306,,59486,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,246,Finland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,81280,,23894,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,147000,,48477,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,221930,,53427,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,27944320,,5312343,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,788,Tunisia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,72000,,26744,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1201860,,361999,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,80919300,,12218546,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,834,United Rep. of Tanzania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,99320,,21386,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,753670,,245749,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2416900,,519659,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1350640,,255443,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,868000,,173150,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,24000,,4755,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5855760,,956069,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,359420,,74306,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4874870,,1063270,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,384,Côte d'Ivoire,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,248985,,54499,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,388,Jamaica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,35000,,7776,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,345860,,83198,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2192530,,406718,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,242450,,101329,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9657250,,1870638,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,434,Libya,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,23000,,5235,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,202000,,33608,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,923460,,141782,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,525660,,122174,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,837000,,155965,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,512,Oman,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,750000,,125047,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,83300,,16823,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,23692900,,3842181,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,531,Curaçao,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,124000,,22015,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8483790,,1497042,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,558,Nicaragua,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,478600,,74147,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,921000,,163295,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,212520,,59644,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,895740,,181899,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,942460,,241800,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,297260,,102569,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10416700,,2077601,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,686,Senegal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,49240,,15114,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4693050,,1143298,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,43600,,13082,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3365110,,828912,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10212180,,1858988,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,748,Swaziland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,241049,,56128,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1930130,,356421,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,16517700,,3158153,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5505550,,948070,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12677200,,2111735,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,44942105,,7870721,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10147920,,2258152,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5235070,,1023627,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,262067315,,49332088,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,264036390,,52654536,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12923900,,2868450,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1416970,,431707,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,989094,,263358,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,972037,,223394,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,253630,,91521,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,368,Iraq,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,481000,,96682,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8129380,,1528450,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,658380,,152900,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11551400,,2298027,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,384,Côte d'Ivoire,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,262898,,72149,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,103060,,32066,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1660310,,356708,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,182750,,65826,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5349930,,1234014,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,434,Libya,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,190000,,34834,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,150000,,34589,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,912050,,168466,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,701610,,176607,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,210000,,37422,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,512,Oman,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,232450,,66303,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1167080,,291490,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,25803300,,5150644,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5264880,,1188721,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,229000,,45628,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,924260,,250022,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2673540,,501848,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,763282,,220189,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,124000,,47330,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,15355000,,3399843,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8079920,,2088091,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,49000,,7435,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7098790,,1809177,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8163010,,1637391,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,748,Swaziland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,341044,,71065,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1590530,,314810,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,24,Angola,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,113000,,27518,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9664370,,2300275,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,978569,,362872,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,16048540,,3157593,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,100,Bulgaria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,87000,,39426,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,41502100,,7810889,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10340500,,2336707,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2147160,,411611,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,432000,,108159,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1411090,,315990,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,204,Benin,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,94000,,16817,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1280490,,297862,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,115118,,22089,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,122000,,45334,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,72000,,24873,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,33685500,,7880872,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,788,Tunisia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,26000,,10393,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5485230,,1594535,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,63941800,,12430795,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,834,United Rep. of Tanzania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,113000,,13441,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,490360,,93036,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,237150,,49559,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,21299800,,3550788,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10558200,,1213818,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2918115,,491932,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11057800,,1786035,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2990200,,460869,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12400200,,2026938,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,104,Myanmar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,112600,,36956,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,46851400,,6675595,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6742810,,1307271,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,241000,,41412,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,582880,,60192,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,204,Benin,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,135000,,39513,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,469660,,89704,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,147900,,43380,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,205286,,48771,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,246,Finland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,81380,,24118,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,153000,,41876,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,768,Togo,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,240000,,28031,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,147881,,44102,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,27482400,,4654303,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,481220,,132991,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,80797680,,11543487,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,834,United Rep. of Tanzania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,265645,,40450,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,649640,,112573,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1066320,,152575,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1381590,,378484,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,300109,,115092,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4706150,,1021394,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6186770,,1331472,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4351350,,799088,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3512980,,769843,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,707629,,146253,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,332,Haiti,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,47000,,3707,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,226742,,33321,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,203000,,26729,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12499640,,1846149,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1578180,,244278,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5033210,,889310,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,111500,,34044,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2190910,,392331,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,530230,,148040,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3056650,,552892,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,246000,,37505,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,674740,,74349,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,276920,,51554,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6026910,,1170570,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,13194900,,2680161,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2272060,,388926,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,15229600,,2955286,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5225000,,989284,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12208660,,2304641,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,38605542,,6895700,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,100,Bulgaria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,83000,,40504,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,104,Myanmar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,508180,,230793,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,120,Cameroon,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,198000,,36507,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10021210,,2253791,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,784000,,164083,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,191,Croatia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,339000,,61844,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2678990,,487029,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,204,Benin,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,167000,,51622,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2090140,,462354,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,308752,,68478,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,743880,,210998,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,446143,,127195,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,924000,,200579,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,288,Ghana,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,192000,,33464,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,268,Georgia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,241000,,76191,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,459890,,126991,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8209820,,1230914,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,954920,,194688,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,384,Côte d'Ivoire,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,385399,,91179,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,259448,,86385,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,434,Libya,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,21240,,6021,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,104000,,18097,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,126000,,16298,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,552910,,121958,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,252000,,75412,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1027300,,317299,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3471310,,630947,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,178120,,81148,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6510390,,1358314,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,410270,,153593,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,484,Mexico,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,114000,,20520,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,338720,,60625,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,512,Oman,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,604100,,107420,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,187200,,41257,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,25248640,,4193483,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,531,Curaçao,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,105000,,18885,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4214210,,876285,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,558,Nicaragua,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,49000,,14195,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,699000,,134812,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,357960,,89449,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2095990,,482059,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,559400,,158694,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8112270,,1832107,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,23410200,,4937997,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5209540,,1365667,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,51000,,7678,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4494420,,1075767,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5871760,,1211525,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,748,Swaziland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,371000,,90798,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,98000,,24829,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,227010,,61796,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2991600,,896020,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,834,United Rep. of Tanzania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,233700,,37763,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,79908600,,12293055,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,896000,,180487,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,14074400,,2595864,,,0
+HS,2019,201906,Jun-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5184482,,1126652,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5141350,,1176550,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,474820,,143426,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9291920,,1794967,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,520000,,94439,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,162017980,,34191746,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6082534,,1317895,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11140000,,2144506,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,428090,,148072,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,232000,,43341,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,288,Ghana,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20000,,6834,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,551800,,185804,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,655000,,104441,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,468609,,77793,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,455680,,112492,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,585000,,35639,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,13944400,,2089411,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1421870,,259898,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8083780,,1420290,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,384,Côte d'Ivoire,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,328000,,60266,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,227860,,59241,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1818930,,277614,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,663550,,204101,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7368920,,1353671,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,404000,,61715,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,155000,,51209,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1065290,,193330,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,476530,,119327,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,847020,,158867,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12777400,,2421035,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4150630,,777597,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,16286800,,2313334,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,46041200,,7945689,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7661570,,1782571,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,216000,,35137,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,763110,,107917,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1075320,,258891,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,789000,,119198,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,512,Oman,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,503000,,93010,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,31250,,7563,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,28368700,,4455669,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6801390,,998753,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,410180,,76015,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2435380,,386147,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,856620,,213515,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,48990,,18918,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9841590,,1779352,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5795130,,1405763,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,100000,,12643,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5165050,,1063201,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10079960,,1803561,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,304439,,60913,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,28164280,,5453173,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,788,Tunisia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,197005,,56125,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1337540,,409604,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,804,Ukraine,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,101000,,24635,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,100639400,,14612224,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,834,United Rep. of Tanzania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,131990,,19047,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1282390,,269520,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6391520,,1550310,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3815720,,740299,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7161010,,1424829,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,104,Myanmar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,131000,,36470,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,38021400,,7087629,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9636330,,2242690,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,145000,,126751,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,240000,,45169,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,654000,,196351,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1021690,,249474,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,204,Benin,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,57000,,10262,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1466710,,314294,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,49000,,14304,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,768,Togo,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,79000,,14179,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,305850,,76880,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,28147200,,6548434,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,788,Tunisia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,44000,,11065,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8860570,,2416271,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,38762300,,7644199,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,834,United Rep. of Tanzania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,99100,,19128,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3835860,,859595,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,288,Ghana,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,363000,,86345,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2450920,,691360,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,880960,,243534,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,610000,,140306,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,93000,,36549,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,368,Iraq,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,275000,,48767,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7745150,,1407452,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1011160,,236221,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5744180,,1270966,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,384,Côte d'Ivoire,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,265060,,68242,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,81920,,26144,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1317780,,296946,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,75000,,29147,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7633680,,1661982,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,434,Libya,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,795000,,141129,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,295000,,67931,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,263880,,50641,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,448330,,111709,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,491320,,87070,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,512,Oman,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,257060,,71596,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,877405,,208403,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,17566000,,3468864,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2779800,,660224,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,518200,,114688,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,616340,,148868,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,902160,,220243,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,360000,,139340,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11298700,,2641114,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5137520,,1497422,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,377720,,72803,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,98000,,18274,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7715000,,1826848,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6894300,,1585831,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,748,Swaziland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,551000,,106416,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,995920,,364602,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7324160,,1617396,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,149902160,,32022761,,,0
+HS,2019,201902,Feb-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5429080,,1125997,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6803020,,1337621,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,834,United Rep. of Tanzania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,158380,,26827,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4989120,,1512984,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1419230,,367867,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,62000,,11100,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,246,Finland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,44000,,16077,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,818240,,148062,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,512,Oman,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,371020,,89385,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,670835,,157658,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,28299200,,5588579,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3324650,,673754,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2379350,,479700,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,24,Angola,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,164020,,30255,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11148600,,2448429,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5318860,,1047344,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20691700,,4231316,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,100,Bulgaria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,85000,,39134,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,43821900,,8063301,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12180400,,2943949,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,152,Chile,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,250000,,57418,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,677000,,124589,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,398000,,112545,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,685440,,146159,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,51545300,,8832927,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,124860,,44658,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,768,Togo,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,114000,,28361,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,440014,,111045,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,33704400,,7906115,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,503000,,99694,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,765580,,154653,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1858590,,481029,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1903010,,444789,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,88180,,30504,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12524100,,2859689,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6680450,,1810058,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,46000,,15132,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5839990,,1406800,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5517360,,1185905,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,748,Swaziland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1558000,,331007,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,288,Ghana,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,236000,,61562,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1828050,,521724,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,306000,,84146,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,944000,,207366,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1023000,,218585,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,368,Iraq,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,281225,,52931,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8814620,,1742483,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,792160,,230915,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3099340,,704428,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,175470,,52041,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1951930,,397831,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,118770,,42025,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8874040,,1963373,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,434,Libya,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,44540,,9943,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,200000,,41474,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,595000,,121546,,,0
+HS,2019,201903,Mar-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,700180,,165658,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9817320,,2072864,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,288,Ghana,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,271000,,56838,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1718370,,463367,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,382733,,90344,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,578973,,109122,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,569810,,140233,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,368,Iraq,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,473000,,85986,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9320360,,1637466,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,415080,,70587,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5086690,,1221450,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,384,Côte d'Ivoire,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,635929,,159708,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,216000,,39115,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1580410,,328630,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8455510,,1810902,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,146000,,26391,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,109150,,40951,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1104890,,216168,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,568490,,140111,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,341420,,60050,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,512,Oman,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,532790,,142278,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1133900,,303043,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,35589180,,6773889,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1761650,,401796,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,591,Panama,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,235000,,40506,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,408060,,113967,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1038440,,294120,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1546860,,375905,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,222000,,79753,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9754330,,2338633,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8242560,,2407686,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,93000,,21735,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5054710,,1197450,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12464100,,2645541,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,748,Swaziland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,583000,,118833,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1010720,,198345,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,18431700,,4040041,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6016450,,1148050,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,14181600,,2913220,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,100,Bulgaria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,82000,,34383,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,104,Myanmar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,116320,,37600,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,33353500,,6154471,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9268820,,2056834,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,677794,,156944,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,903650,,188567,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1551100,,315705,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1501530,,317034,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,163913,,29091,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,246,Finland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,67000,,22566,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,357000,,174008,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,768,Togo,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,57000,,10215,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,52000,,14181,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,35172600,,7803033,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5341330,,1526467,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,52156353,,9019314,,,0
+HS,2019,201904,Apr-19,4,0,1,Imports,699,India,,834,United Rep. of Tanzania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,88500,,16095,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7521340,,1614143,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,931940,,328365,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4469430,,864895,,,0
+HS,2019,201901,Jan-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,232612806,,49774581,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,257372985,,54864871,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,16352900,,3487812,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2550960,,763915,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,120000,,22405,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,332,Haiti,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,72000,,23832,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,736000,,158642,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,147208,,71207,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12616600,,2130504,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,937840,,241039,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5390660,,1224195,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,384,Côte d'Ivoire,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,316081,,85637,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,250930,,71320,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2322390,,519249,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,308110,,115244,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10970200,,2452413,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,190000,,34642,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,462,Maldives,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,73600,,19936,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,654250,,129183,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,542110,,128562,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3647790,,666674,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,24,Angola,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,124070,,31922,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12075400,,2595384,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4445780,,897355,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,13837880,,2840897,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,104,Myanmar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,98740,,34072,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,32226130,,5974258,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9379970,,2076157,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1515960,,327607,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1193230,,290657,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2256420,,494185,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,603686,,127224,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,459280,,80909,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,512,Oman,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,254000,,65876,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,960205,,249524,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,32750880,,6257073,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,531,Curaçao,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,371920,,73968,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,540,New Caledonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,95000,,30213,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3960930,,831416,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,296100,,85246,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2076480,,530443,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,941140,,277621,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11928400,,2708270,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7448350,,1897830,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,704,Viet Nam,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,412393,,83279,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,75000,,11389,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7573020,,1690621,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9677860,,2045894,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,748,Swaziland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1388000,,285473,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,752,Sweden,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,128000,,35502,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,129000,,75045,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,768,Togo,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,251000,,41029,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,247076,,55918,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,33223300,,7448681,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,788,Tunisia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,26380,,11978,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2795130,,889620,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,73739300,,12557590,,,0
+HS,2019,201905,May-19,4,0,1,Imports,699,India,,834,United Rep. of Tanzania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,117520,,22529,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,885000,,231250,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,19120400,,3179023,,,0
+HS,2019,201907,Jul-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,525838,,173664,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,445270,,95481,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,476080,,103486,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1410420,,289412,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,49000,,9986,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,101950,,25132,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1380560,,235856,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,13342100,,2546464,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,13638600,,2357879,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7852760,,1744145,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,471114,,124095,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,204,Benin,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,82000,,23432,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,524987,,112898,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,242,Fiji,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20000,,3594,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7009440,,1254334,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,259580,,83389,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,536000,,101959,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,384,Côte d'Ivoire,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,113841,,18240,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,388,Jamaica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,82000,,30458,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,507900,,188513,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5619070,,998481,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,50,,19,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,564000,,95021,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,512,Oman,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,540580,,141088,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,516740,,116968,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,29642600,,4925627,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,531,Curaçao,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,257000,,45272,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5092190,,838113,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,748,Swaziland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,791000,,164882,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,817210,,113063,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,101000,,15286,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2469590,,496640,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,360,Indonesia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,162000,,7456,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11556400,,1824495,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,575480,,107276,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3634790,,638737,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1006304,,185810,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,516000,,94031,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,517240,,64463,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,50404130,,8526381,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,40,Austria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,47,,276,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2636810,,496611,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,24,Angola,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,110000,,20708,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,31577810,,6427905,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,788,Tunisia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,23080,,8362,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1676660,,455349,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,106507500,,15374735,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,642,Romania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,44000,,10405,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,24390,,9212,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10279500,,1774540,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3654470,,814588,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,127000,,15952,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2182840,,518911,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,14594600,,2722762,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1129900,,162147,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,652750,,118877,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,580,,2811,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2090480,,349686,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,516019,,181418,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11441600,,2067619,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,776000,,171949,,,0
+HS,2019,201909,Sep-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,228953370,,40022869,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,875825,,310396,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,625400,,131517,,,0
+HS,2019,201912,Dec-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,218260689,,37175201,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1159000,,183955,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20000,,982,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,34003220,,5825617,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,540,New Caledonia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,263000,,48732,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9576310,,1188947,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,442920,,93221,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1338850,,167867,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,904610,,210720,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,642,Romania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,42000,,9647,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,792157,,304448,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2992840,,695594,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,686,Senegal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,49000,,15200,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4103130,,896774,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,112000,,20234,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6060250,,1115846,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6224700,,1124130,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,153000,,44127,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,226441,,59153,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,27974700,,5520038,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,788,Tunisia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,72000,,19019,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,908300,,306675,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,83844780,,12954877,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,834,United Rep. of Tanzania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,92370,,16829,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,587116,,103251,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1632590,,178877,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,776511,,158397,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,218,Ecuador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,144000,,30587,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,301390,,69282,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,246,Finland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,83720,,24575,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2879320,,431222,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,11566900,,1855414,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1898350,,323971,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,16728780,,2728710,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,48109400,,7728403,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7020530,,1545757,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,638865,,210114,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,636143,,109562,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,326662,,63847,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,103170,,51585,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9318200,,1558751,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1237960,,274660,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6341390,,1156698,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,384,Côte d'Ivoire,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,323919,,55738,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,388,Jamaica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,36000,,5892,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,20000,,4112,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2192250,,376485,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,589060,,204088,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3306480,,646066,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,48000,,7328,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,458,Malaysia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,103000,,33906,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1238510,,214554,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,529490,,106374,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12097100,,2011552,,,0
+HS,2019,201911,Nov-19,4,0,1,Imports,699,India,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,128480,,62136,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12268500,,1903651,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1801000,,419412,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12719600,,2026866,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,176825,,86252,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6741410,,1131228,,,0
+HS,2019,201910,Oct-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,221200199,,39076376,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,188,Costa Rica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,425000,,64832,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,196,Cyprus,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,899935,,147945,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,204,Benin,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,82600,,23357,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,214,Dominican Rep.,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1429640,,281292,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,222,El Salvador,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,317000,,59323,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,246,Finland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,516000,,108015,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,764,Thailand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,130000,,45517,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,768,Togo,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,86270,,24615,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,780,Trinidad and Tobago,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,294230,,63138,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,784,United Arab Emirates,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,31688700,,6098302,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,788,Tunisia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,156000,,32224,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,792,Turkey,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,847840,,259818,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,826,United Kingdom,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,89715600,,12997867,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,834,United Rep. of Tanzania,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,141000,,25392,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,504,Morocco,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,696000,,122267,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,508,Mozambique,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,94800,,10726,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,512,Oman,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,306650,,63189,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,524,Nepal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,85310,,12959,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,528,Netherlands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,28682600,,4337572,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,531,Curaçao,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,122000,,21537,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,554,New Zealand,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5325410,,812049,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,558,Nicaragua,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,124000,,21879,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,574,Norfolk Isds,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,53000,,18224,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,616,Poland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,117000,,22540,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,620,Portugal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2011930,,372192,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,634,Qatar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,513620,,139494,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,643,Russian Federation,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,223400,,76630,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,682,Saudi Arabia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9680010,,1573611,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,686,Senegal,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,49330,,14075,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6535400,,1424166,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,705,Slovenia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,146000,,24570,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,710,South Africa,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2454340,,565497,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,724,Spain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8562630,,1550894,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,748,Swaziland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1254230,,302203,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,12,Algeria,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,641260,,148131,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,36,Australia,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12322500,,2069911,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,48,Bahrain,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,3172070,,519154,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,56,Belgium,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9864190,,1762054,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,124,Canada,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,57110045,,9689830,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,144,Sri Lanka,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8370670,,1878225,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,300,Greece,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2428980,,464248,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,320,Guatemala,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,563381,,114112,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,340,Honduras,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,635200,,111720,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,334014,,62525,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,372,Ireland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,5639120,,887859,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,376,Israel,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1382240,,257910,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4553220,,887966,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,384,Côte d'Ivoire,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,550213,,93290,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,388,Jamaica,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,36000,,5266,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,392,Japan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,158000,,20996,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,400,Jordan,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1997620,,355068,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1091910,,384234,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,414,Kuwait,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,8111440,,1424962,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,450,Madagascar,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,152000,,22582,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,470,Malta,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,593000,,89620,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,480,Mauritius,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,479160,,121958,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,6973240,,1229041,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,595450,,101718,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,581,United States Minor Outlying Islands,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,95000,,21935,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,579,Norway,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,517000,,119335,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,757,Switzerland,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,12025900,,2094912,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,299550,,124207,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,251,France,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,4916020,,822394,,,0
+HS,2019,201908,Aug-19,4,0,1,Imports,699,India,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,244427040,,42486527,,,0

@@ -1,0 +1,32 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2021,202101,Jan-21,4,0,1,Imports,392,Japan,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,34000,,26906,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,392,Japan,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,54000,,14581,,,0
+HS,2021,202101,Jan-21,4,0,1,Imports,392,Japan,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1218000,,460364,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,392,Japan,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,62000,,16769,,,0
+HS,2021,202102,Feb-21,4,0,1,Imports,392,Japan,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1080476,,380909,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,392,Japan,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,30000,,28026,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,392,Japan,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,99000,,25734,,,0
+HS,2021,202103,Mar-21,4,0,1,Imports,392,Japan,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1063000,,397323,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,392,Japan,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,10000,,4719,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,392,Japan,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,27000,,6927,,,0
+HS,2021,202104,Apr-21,4,0,1,Imports,392,Japan,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1236000,,470347,,,0
+HS,2021,202105,May-21,4,0,1,Imports,392,Japan,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7000,,10971,,,0
+HS,2021,202105,May-21,4,0,1,Imports,392,Japan,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,72000,,18477,,,0
+HS,2021,202105,May-21,4,0,1,Imports,392,Japan,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1295000,,510769,,,0
+HS,2021,202106,Jun-21,4,0,1,Imports,392,Japan,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,34000,,31833,,,0
+HS,2021,202106,Jun-21,4,0,1,Imports,392,Japan,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,72000,,18310,,,0
+HS,2021,202106,Jun-21,4,0,1,Imports,392,Japan,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1211000,,516366,,,0
+HS,2021,202107,Jul-21,4,0,1,Imports,392,Japan,,490,"Other Asia, nes",,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,48000,,26696,,,0
+HS,2021,202107,Jul-21,4,0,1,Imports,392,Japan,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,93000,,34257,,,0
+HS,2021,202107,Jul-21,4,0,1,Imports,392,Japan,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1268000,,622415,,,0
+HS,2021,202108,Aug-21,4,0,1,Imports,392,Japan,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,16000,,21760,,,0
+HS,2021,202108,Aug-21,4,0,1,Imports,392,Japan,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,63000,,16060,,,0
+HS,2021,202108,Aug-21,4,0,1,Imports,392,Japan,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1568000,,783979,,,0
+HS,2021,202109,Sep-21,4,0,1,Imports,392,Japan,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,81000,,20577,,,0
+HS,2021,202109,Sep-21,4,0,1,Imports,392,Japan,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1124000,,569712,,,0
+HS,2021,202110,Oct-21,4,0,1,Imports,392,Japan,,156,China,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,7000,,10581,,,0
+HS,2021,202110,Oct-21,4,0,1,Imports,392,Japan,,381,Italy,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,50000,,16937,,,0
+HS,2021,202110,Oct-21,4,0,1,Imports,392,Japan,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,90000,,22276,,,0
+HS,2021,202110,Oct-21,4,0,1,Imports,392,Japan,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,2008000,,1004844,,,0
+HS,2021,202111,Nov-21,4,0,1,Imports,392,Japan,,702,Singapore,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,9000,,2210,,,0
+HS,2021,202111,Nov-21,4,0,1,Imports,392,Japan,,842,United States of America,,,,,,,,,4707,Waste and scrap of paper and paperboard,,,,,,,1379000,,727992,,,0
